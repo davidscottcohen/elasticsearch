@@ -54,3 +54,4 @@ public class SyncPluginsCliProvider implements CliToolProvider {
         };
     }
 }
+// Test

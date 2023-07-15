@@ -95,3 +95,4 @@ public abstract class AbstractNumericTestCase extends ESIntegTestCase {
 
     public void testOrderByEmptyAggregation() throws Exception {}
 }
+// Test

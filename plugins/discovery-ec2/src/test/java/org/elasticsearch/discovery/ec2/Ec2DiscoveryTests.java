@@ -346,3 +346,4 @@ public class Ec2DiscoveryTests extends AbstractEC2MockAPITestCase {
         assertThat(provider.fetchCount, is(1));
     }
 }
+// Test

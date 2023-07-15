@@ -43,3 +43,4 @@ public enum DockerBase {
         return suffix;
     }
 }
+// Test

@@ -153,3 +153,4 @@ public class MockTerminal extends Terminal {
         stderrBuffer.reset();
     }
 }
+// Test

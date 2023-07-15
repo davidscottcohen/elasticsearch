@@ -91,3 +91,4 @@ public class MockPluginsServiceTests extends ESTestCase {
         assertThat(pluginNames, containsInAnyOrder(containsString("TestPlugin1"), containsString("TestPlugin2")));
     }
 }
+// Test

@@ -146,3 +146,4 @@ public class Murmur3FieldMapperTests extends MapperTestCase {
         throw new AssumptionViolatedException("not supported");
     }
 }
+// Test

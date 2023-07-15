@@ -62,3 +62,4 @@ public interface ExampleAnalysisSettings {
     @ListSetting(path = "tokenizer_list_of_chars")
     List<String> singleCharsToSkipInTokenizer();
 }
+// Test

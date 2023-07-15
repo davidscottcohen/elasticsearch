@@ -308,3 +308,4 @@ public class DependencyLicensesTask extends DefaultTask {
     }
 
 }
+// Test

@@ -41,3 +41,4 @@ public class SkippingTokenFilterFactory implements TokenFilterFactory {
 
 }
 
+// Test

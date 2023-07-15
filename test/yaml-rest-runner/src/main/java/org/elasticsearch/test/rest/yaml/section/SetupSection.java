@@ -76,3 +76,4 @@ public class SetupSection {
         return EMPTY.equals(this);
     }
 }
+// Test

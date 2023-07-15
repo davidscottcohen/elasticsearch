@@ -110,3 +110,4 @@ final class HdfsBlobStore implements BlobStore {
         closed = true;
     }
 }
+// Test

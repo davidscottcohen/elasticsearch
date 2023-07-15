@@ -220,3 +220,4 @@ public class ESIndexInputTestCase extends ESTestCase {
         return '.' + randomFrom(LuceneFilesExtensions.values()).getExtension();
     }
 }
+// Test

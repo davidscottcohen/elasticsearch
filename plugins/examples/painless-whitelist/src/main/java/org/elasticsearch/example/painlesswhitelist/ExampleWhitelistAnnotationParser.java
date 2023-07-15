@@ -49,3 +49,4 @@ public class ExampleWhitelistAnnotationParser implements WhitelistAnnotationPars
         return new ExamplePainlessAnnotation(category, message);
     }
 }
+// Test

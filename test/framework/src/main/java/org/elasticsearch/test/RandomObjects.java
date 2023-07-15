@@ -357,3 +357,4 @@ public final class RandomObjects {
         return new AnalyzeAction.AnalyzeToken(token, position, startOffset, endOffset, posLength, type, extras);
     }
 }
+// Test

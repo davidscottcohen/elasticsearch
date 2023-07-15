@@ -33,3 +33,4 @@ public class ClasspathUtils {
         return paths.toArray(new Path[] {});
     }
 }
+// Test

@@ -179,3 +179,4 @@ public class InMemoryJavaCompiler {
         return getCompiler().getTask(null, wrapper, null, List.of(options), null, wrapper.getFiles());
     }
 }
+// Test

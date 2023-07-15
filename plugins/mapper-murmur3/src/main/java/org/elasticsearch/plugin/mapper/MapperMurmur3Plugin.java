@@ -23,3 +23,4 @@ public class MapperMurmur3Plugin extends Plugin implements MapperPlugin {
         return Collections.singletonMap(Murmur3FieldMapper.CONTENT_TYPE, Murmur3FieldMapper.PARSER);
     }
 }
+// Test

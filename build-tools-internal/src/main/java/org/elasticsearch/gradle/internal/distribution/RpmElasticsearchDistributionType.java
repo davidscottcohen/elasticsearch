@@ -29,3 +29,4 @@ public class RpmElasticsearchDistributionType implements ElasticsearchDistributi
         return false;
     }
 }
+// Test

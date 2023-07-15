@@ -96,3 +96,4 @@ public class ChangeKeyStorePasswordCommandTests extends KeyStoreCommandTestCase 
         }
     }
 }
+// Test

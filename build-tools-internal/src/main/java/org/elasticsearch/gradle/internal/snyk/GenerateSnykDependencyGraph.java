@@ -153,3 +153,4 @@ public class GenerateSnykDependencyGraph extends DefaultTask {
         return targetReference;
     }
 }
+// Test

@@ -24,3 +24,4 @@ public class DelayedShardAggregationClientYamlTestSuiteIT extends ESClientYamlSu
         return ESClientYamlSuiteTestCase.createParameters();
     }
 }
+// Test

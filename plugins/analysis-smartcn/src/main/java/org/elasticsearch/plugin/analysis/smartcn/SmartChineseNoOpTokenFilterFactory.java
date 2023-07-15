@@ -25,3 +25,4 @@ public class SmartChineseNoOpTokenFilterFactory extends AbstractTokenFilterFacto
         return tokenStream;
     }
 }
+// Test

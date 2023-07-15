@@ -886,3 +886,4 @@ public abstract class AbstractQueryTestCase<QB extends AbstractQueryBuilder<QB>>
         assertTrue("query should be cacheable: " + queryBuilder.toString(), context.isCacheable());
     }
 }
+// Test

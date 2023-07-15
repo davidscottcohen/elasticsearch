@@ -90,3 +90,4 @@ public class InjectWarningsRegexTests extends InjectFeatureTests {
         return false;
     }
 }
+// Test

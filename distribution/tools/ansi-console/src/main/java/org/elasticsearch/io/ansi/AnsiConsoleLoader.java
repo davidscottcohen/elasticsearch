@@ -80,3 +80,4 @@ public class AnsiConsoleLoader implements Supplier<ConsoleLoader.Console> {
         }
     }
 }
+// Test

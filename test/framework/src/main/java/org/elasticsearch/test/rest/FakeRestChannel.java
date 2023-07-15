@@ -49,3 +49,4 @@ public final class FakeRestChannel extends AbstractRestChannel {
         return errors;
     }
 }
+// Test

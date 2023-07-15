@@ -26,3 +26,4 @@ public class KuromojiBaseFormFilterFactory extends AbstractTokenFilterFactory {
         return new JapaneseBaseFormFilter(tokenStream);
     }
 }
+// Test

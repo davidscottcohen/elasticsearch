@@ -32,3 +32,4 @@ public class MockSearchServiceTests extends ESTestCase {
         }
     }
 }
+// Test

@@ -25,3 +25,4 @@ public class StoreSmbClientYamlTestSuiteIT extends ESClientYamlSuiteTestCase {
         return ESClientYamlSuiteTestCase.createParameters();
     }
 }
+// Test

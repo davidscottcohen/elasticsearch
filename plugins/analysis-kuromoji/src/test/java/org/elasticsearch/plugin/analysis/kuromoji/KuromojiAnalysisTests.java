@@ -444,3 +444,4 @@ public class KuromojiAnalysisTests extends ESTestCase {
         return AnalysisTestsHelper.createTestAnalysisFromSettings(settings, new AnalysisKuromojiPlugin());
     }
 }
+// Test

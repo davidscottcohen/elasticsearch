@@ -48,3 +48,4 @@ public class MigrationIndexGenerator {
         return TemplateUtils.render(template, bindings);
     }
 }
+// Test

@@ -133,3 +133,4 @@ public class PhoneticTokenFilterFactory extends AbstractTokenFilterFactory {
         throw new IllegalArgumentException("Token filter [" + name() + "] cannot be used to parse synonyms");
     }
 }
+// Test

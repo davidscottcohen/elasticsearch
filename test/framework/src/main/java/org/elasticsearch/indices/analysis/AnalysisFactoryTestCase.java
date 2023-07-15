@@ -320,3 +320,4 @@ public abstract class AnalysisFactoryTestCase extends ESTestCase {
         private MovedToAnalysisCommon() {}
     }
 }
+// Test

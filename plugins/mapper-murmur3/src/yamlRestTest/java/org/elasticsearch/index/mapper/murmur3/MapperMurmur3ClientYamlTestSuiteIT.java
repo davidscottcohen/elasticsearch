@@ -25,3 +25,4 @@ public class MapperMurmur3ClientYamlTestSuiteIT extends ESClientYamlSuiteTestCas
         return createParameters();
     }
 }
+// Test

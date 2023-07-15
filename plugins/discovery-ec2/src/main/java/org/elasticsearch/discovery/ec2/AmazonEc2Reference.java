@@ -47,3 +47,4 @@ public class AmazonEc2Reference extends AbstractRefCounted implements Releasable
     }
 
 }
+// Test

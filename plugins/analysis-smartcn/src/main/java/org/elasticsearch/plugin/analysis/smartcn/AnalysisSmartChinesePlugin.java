@@ -45,3 +45,4 @@ public class AnalysisSmartChinesePlugin extends Plugin implements AnalysisPlugin
         return singletonMap("smartcn", SmartChineseAnalyzerProvider::new);
     }
 }
+// Test

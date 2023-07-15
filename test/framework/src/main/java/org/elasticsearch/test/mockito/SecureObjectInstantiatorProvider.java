@@ -29,3 +29,4 @@ public class SecureObjectInstantiatorProvider implements InstantiatorProvider2 {
         return new SecureObjectInstantiator(delegate.getInstantiator(settings));
     }
 }
+// Test

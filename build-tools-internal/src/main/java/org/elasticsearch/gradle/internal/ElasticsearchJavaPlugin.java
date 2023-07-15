@@ -139,3 +139,4 @@ public class ElasticsearchJavaPlugin implements Plugin<Project> {
         project.getTasks().named(LifecycleBasePlugin.CHECK_TASK_NAME).configure(t -> t.dependsOn(javadoc));
     }
 }
+// Test

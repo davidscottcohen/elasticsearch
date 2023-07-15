@@ -49,3 +49,4 @@ public class IndexSeekTracker {
         return "seeks for " + index + ": " + seeks;
     }
 }
+// Test

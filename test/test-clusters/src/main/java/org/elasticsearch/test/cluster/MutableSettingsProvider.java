@@ -33,3 +33,4 @@ public class MutableSettingsProvider implements SettingsProvider {
         settings.clear();
     }
 }
+// Test

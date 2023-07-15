@@ -207,3 +207,4 @@ public abstract class SpatialBoundsAggregationTestBase<T extends SpatialPoint> e
         assertThat(bottomRight.getX(), closeTo(0.0, GEOHASH_TOLERANCE));
     }
 }
+// Test

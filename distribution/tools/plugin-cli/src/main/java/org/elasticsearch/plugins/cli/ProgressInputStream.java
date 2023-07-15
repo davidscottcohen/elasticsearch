@@ -70,3 +70,4 @@ public abstract class ProgressInputStream extends FilterInputStream {
 
     public void onProgress(int percent) {}
 }
+// Test

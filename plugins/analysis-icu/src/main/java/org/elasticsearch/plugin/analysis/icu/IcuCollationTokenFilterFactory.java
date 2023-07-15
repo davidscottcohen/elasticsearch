@@ -166,3 +166,4 @@ public class IcuCollationTokenFilterFactory extends AbstractTokenFilterFactory {
         return new ICUCollationKeyFilter(tokenStream, collator);
     }
 }
+// Test

@@ -32,3 +32,4 @@ public final class HdfsClientThreadLeakFilter implements ThreadFilter {
         return t.getName().equals(OFFENDING_THREAD_NAME);
     }
 }
+// Test

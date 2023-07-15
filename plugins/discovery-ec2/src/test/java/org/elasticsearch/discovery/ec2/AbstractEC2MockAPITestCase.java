@@ -202,3 +202,4 @@ public abstract class AbstractEC2MockAPITestCase extends ESTestCase {
         return out.toString().getBytes(UTF_8);
     }
 }
+// Test

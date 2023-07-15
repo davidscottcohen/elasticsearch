@@ -118,3 +118,4 @@ public class CheckstylePrecommitPlugin extends PrecommitPlugin {
         return checkstyleTask;
     }
 }
+// Test

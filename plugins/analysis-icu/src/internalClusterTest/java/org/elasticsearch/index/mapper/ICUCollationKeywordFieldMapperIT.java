@@ -488,3 +488,4 @@ public class ICUCollationKeywordFieldMapperIT extends ESIntegTestCase {
         assertOrderedSearchHits(response, "2", "1");
     }
 }
+// Test

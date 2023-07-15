@@ -23,3 +23,4 @@ public class MapperSizePlugin extends Plugin implements MapperPlugin {
         return Collections.singletonMap(SizeFieldMapper.NAME, SizeFieldMapper.PARSER);
     }
 }
+// Test

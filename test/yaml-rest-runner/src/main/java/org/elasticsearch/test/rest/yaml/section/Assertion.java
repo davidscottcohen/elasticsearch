@@ -77,3 +77,4 @@ public abstract class Assertion implements ExecutableSection {
         return o == null ? null : o.getClass();
     }
 }
+// Test

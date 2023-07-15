@@ -93,3 +93,4 @@ public class AbstractQueryTestCaseTests extends ESTestCase {
         assertThat(alterationsMap, matcher);
     }
 }
+// Test

@@ -55,3 +55,4 @@ public class DefaultDistributionDescriptor implements DistributionDescriptor {
             + '}';
     }
 }
+// Test

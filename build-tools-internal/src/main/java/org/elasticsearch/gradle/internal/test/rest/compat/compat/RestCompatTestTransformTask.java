@@ -511,3 +511,4 @@ public class RestCompatTestTransformTask extends DefaultTask {
             .collect(Collectors.joining());
     }
 }
+// Test

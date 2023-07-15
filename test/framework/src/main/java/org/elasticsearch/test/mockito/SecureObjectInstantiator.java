@@ -25,3 +25,4 @@ class SecureObjectInstantiator implements Instantiator {
         return SecureMockUtil.wrap(() -> delegate.newInstance(cls));
     }
 }
+// Test

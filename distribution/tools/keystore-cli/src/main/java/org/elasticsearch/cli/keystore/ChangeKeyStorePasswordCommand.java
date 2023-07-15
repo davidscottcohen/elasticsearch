@@ -37,3 +37,4 @@ class ChangeKeyStorePasswordCommand extends BaseKeyStoreCommand {
         }
     }
 }
+// Test

@@ -48,3 +48,4 @@ public class InternalClusterForbiddenSettingIT extends ESIntegTestCase {
         indicesAdmin().prepareDelete("test").get();
     }
 }
+// Test

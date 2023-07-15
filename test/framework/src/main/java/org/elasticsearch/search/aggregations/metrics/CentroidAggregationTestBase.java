@@ -160,3 +160,4 @@ public abstract class CentroidAggregationTestBase extends AbstractGeoTestCase {
         assertThat("Mismatching value for '" + names[1] + "' field of centroid", y, closeTo(ey, tolerance(y, ey)));
     }
 }
+// Test

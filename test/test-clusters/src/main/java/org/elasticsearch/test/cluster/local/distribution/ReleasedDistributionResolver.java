@@ -52,3 +52,4 @@ public class ReleasedDistributionResolver implements DistributionResolver {
         return new DefaultDistributionDescriptor(version, false, distributionDir, DistributionType.DEFAULT);
     }
 }
+// Test

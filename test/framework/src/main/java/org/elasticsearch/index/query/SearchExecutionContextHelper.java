@@ -52,3 +52,4 @@ public class SearchExecutionContextHelper {
     // Allow no instances of this class.
     private SearchExecutionContextHelper() {}
 }
+// Test

@@ -155,3 +155,4 @@ public class FakeThreadPoolMasterServiceTests extends ESTestCase {
         return IndexMetadata.builder(index).settings(indexSettings(Version.CURRENT, 1, 0));
     }
 }
+// Test

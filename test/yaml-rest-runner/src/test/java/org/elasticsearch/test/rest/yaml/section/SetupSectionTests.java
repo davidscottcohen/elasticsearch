@@ -118,3 +118,4 @@ public class SetupSectionTests extends AbstractClientYamlTestFragmentParserTestC
         assertThat(((DoSection) setupSection.getExecutableSections().get(1)).getApiCallSection().getApi(), equalTo("index2"));
     }
 }
+// Test

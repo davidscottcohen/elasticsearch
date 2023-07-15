@@ -26,3 +26,4 @@ class WindowsServiceRemoveCommand extends ProcrunCommand {
         return String.format(java.util.Locale.ROOT, "Failed removing '%s' service", serviceId);
     }
 }
+// Test

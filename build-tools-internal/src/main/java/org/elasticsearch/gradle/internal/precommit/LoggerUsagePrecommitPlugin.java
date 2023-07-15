@@ -41,3 +41,4 @@ public class LoggerUsagePrecommitPlugin extends PrecommitPlugin {
         return loggerUsage;
     }
 }
+// Test

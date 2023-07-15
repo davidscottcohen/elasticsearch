@@ -100,3 +100,4 @@ public class UploadSnykDependenciesGraph extends DefaultTask {
         return inputFile;
     }
 }
+// Test

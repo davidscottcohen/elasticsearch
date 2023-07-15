@@ -65,3 +65,4 @@ public class ReleaseHighlightsGenerator {
         return TemplateUtils.render(template, bindings);
     }
 }
+// Test

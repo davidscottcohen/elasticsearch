@@ -1090,3 +1090,4 @@ public class InstallPluginAction implements Closeable {
         IOUtils.rm(pathsToDeleteOnShutdown.toArray(new Path[0]));
     }
 }
+// Test

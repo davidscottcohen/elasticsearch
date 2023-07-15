@@ -22,3 +22,4 @@ public enum LogType {
         return filenameFormat.formatted(clusterName);
     }
 }
+// Test

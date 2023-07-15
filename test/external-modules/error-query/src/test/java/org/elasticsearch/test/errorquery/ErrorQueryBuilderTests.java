@@ -59,3 +59,4 @@ public class ErrorQueryBuilderTests extends AbstractQueryTestCase<ErrorQueryBuil
         assertFalse("query should not be cacheable: " + queryBuilder.toString(), context.isCacheable());
     }
 }
+// Test

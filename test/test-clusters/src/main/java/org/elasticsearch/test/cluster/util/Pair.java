@@ -36,3 +36,4 @@ public final class Pair<L, R> {
         return Objects.hash(left, right);
     }
 }
+// Test

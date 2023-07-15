@@ -44,3 +44,4 @@ public class AnalysisKuromojiFactoryTests extends AnalysisFactoryTestCase {
         return filters;
     }
 }
+// Test

@@ -43,3 +43,4 @@ class RemovePluginCommand extends EnvironmentAwareCommand {
         action.execute(plugins);
     }
 }
+// Test

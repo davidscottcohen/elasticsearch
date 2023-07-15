@@ -31,3 +31,4 @@ public class PolishAnalysisTests extends ESTestCase {
         MatcherAssert.assertThat(analyzer, instanceOf(PolishAnalyzer.class));
     }
 }
+// Test

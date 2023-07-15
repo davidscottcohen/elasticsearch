@@ -727,3 +727,4 @@ public class ElasticsearchAssertions {
         }
     }
 }
+// Test

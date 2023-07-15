@@ -48,3 +48,4 @@ public class HasPasswordKeyStoreCommand extends KeyStoreAwareCommand {
         terminal.println(Terminal.Verbosity.NORMAL, "Keystore is password-protected");
     }
 }
+// Test

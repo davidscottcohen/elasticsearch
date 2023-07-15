@@ -159,3 +159,4 @@ class WindowsServiceInstallCommand extends ProcrunCommand {
         return String.format(java.util.Locale.ROOT, "Failed installing '%s' service", serviceId);
     }
 }
+// Test

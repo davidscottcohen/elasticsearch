@@ -56,3 +56,4 @@ public class HaasePhonetik extends KoelnerPhonetik {
         return '9';
     }
 }
+// Test

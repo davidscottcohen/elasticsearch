@@ -22,3 +22,4 @@ public interface SystemMemoryInfo {
      */
     long availableSystemMemory();
 }
+// Test

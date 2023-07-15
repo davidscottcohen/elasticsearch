@@ -28,3 +28,4 @@ public class InternalTestArtifactBasePlugin implements Plugin<Project> {
         project.getExtensions().create("testArtifacts", InternalTestArtifactExtension.class, project, providerFactory);
     }
 }
+// Test

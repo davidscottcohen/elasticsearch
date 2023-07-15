@@ -25,3 +25,4 @@ public class NoriClientYamlTestSuiteIT extends ESClientYamlSuiteTestCase {
         return ESClientYamlSuiteTestCase.createParameters();
     }
 }
+// Test

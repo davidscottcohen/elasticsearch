@@ -40,3 +40,4 @@ public class DependencyLicensesPrecommitPlugin extends PrecommitPlugin {
         return dependencyLicenses;
     }
 }
+// Test

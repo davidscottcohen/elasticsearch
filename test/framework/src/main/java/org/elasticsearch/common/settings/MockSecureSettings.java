@@ -120,3 +120,4 @@ public class MockSecureSettings implements SecureSettings {
         throw new IllegalStateException("Not supported, implement me!");
     }
 }
+// Test

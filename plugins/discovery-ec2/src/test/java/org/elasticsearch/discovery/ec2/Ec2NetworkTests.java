@@ -178,3 +178,4 @@ public class Ec2NetworkTests extends ESTestCase {
         assertThat(addresses, arrayContaining(networkService.resolveBindHostAddresses(new String[] { "_local_" })));
     }
 }
+// Test

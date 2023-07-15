@@ -29,3 +29,4 @@ public class KuromojiReadingFormFilterFactory extends AbstractTokenFilterFactory
         return new JapaneseReadingFormFilter(tokenStream, useRomaji);
     }
 }
+// Test

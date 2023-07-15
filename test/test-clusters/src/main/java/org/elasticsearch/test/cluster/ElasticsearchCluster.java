@@ -33,3 +33,4 @@ public interface ElasticsearchCluster extends TestRule, ClusterHandle {
     }
 
 }
+// Test

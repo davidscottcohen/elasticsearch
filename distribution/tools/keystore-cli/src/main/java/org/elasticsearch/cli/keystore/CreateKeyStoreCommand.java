@@ -54,3 +54,4 @@ class CreateKeyStoreCommand extends KeyStoreAwareCommand {
         }
     }
 }
+// Test

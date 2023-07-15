@@ -61,3 +61,4 @@ public class AnnotatedTextHighlighter extends UnifiedHighlighter {
     }
 
 }
+// Test

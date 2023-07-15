@@ -122,3 +122,4 @@ public abstract class AdoptiumJdkToolchainResolver extends AbstractCustomJavaToo
 
     record AdoptiumVersionRequest(String platform, String arch, JavaLanguageVersion languageVersion) {}
 }
+// Test

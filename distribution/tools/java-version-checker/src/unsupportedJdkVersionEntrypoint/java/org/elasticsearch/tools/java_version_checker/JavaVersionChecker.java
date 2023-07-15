@@ -33,3 +33,4 @@ final class JavaVersionChecker {
         System.exit(1);
     }
 }
+// Test

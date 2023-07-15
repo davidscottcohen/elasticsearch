@@ -72,3 +72,4 @@ public class LessThanAssertion extends Assertion {
         return "field [" + getField() + "] is not less than [" + getExpectedValue() + "]";
     }
 }
+// Test

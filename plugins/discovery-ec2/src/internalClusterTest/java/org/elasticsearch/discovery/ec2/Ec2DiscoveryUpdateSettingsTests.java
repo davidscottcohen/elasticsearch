@@ -39,3 +39,4 @@ public class Ec2DiscoveryUpdateSettingsTests extends AbstractAwsTestCase {
         assertThat(value, is(expectedValue));
     }
 }
+// Test

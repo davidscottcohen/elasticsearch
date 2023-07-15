@@ -25,3 +25,4 @@ public class IcuClientYamlTestSuiteIT extends ESClientYamlSuiteTestCase {
         return ESClientYamlSuiteTestCase.createParameters();
     }
 }
+// Test

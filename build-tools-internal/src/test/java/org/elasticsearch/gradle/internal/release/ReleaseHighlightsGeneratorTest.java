@@ -84,3 +84,4 @@ public class ReleaseHighlightsGeneratorTest {
         return Files.readString(Paths.get(Objects.requireNonNull(this.getClass().getResource(name)).toURI()), StandardCharsets.UTF_8);
     }
 }
+// Test

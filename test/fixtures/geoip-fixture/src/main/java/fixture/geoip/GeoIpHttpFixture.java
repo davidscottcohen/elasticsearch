@@ -120,3 +120,4 @@ public class GeoIpHttpFixture extends ExternalResource {
         );
     }
 }
+// Test

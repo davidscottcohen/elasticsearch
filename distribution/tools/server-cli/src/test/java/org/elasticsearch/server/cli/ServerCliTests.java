@@ -613,3 +613,4 @@ public class ServerCliTests extends CommandTestCase {
         }
     }
 }
+// Test

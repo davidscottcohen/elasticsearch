@@ -25,3 +25,4 @@ public class MyFilterTokenFilterFactory extends AbstractTokenFilterFactory {
         return new StopFilter(tokenStream, EnglishAnalyzer.ENGLISH_STOP_WORDS_SET);
     }
 }
+// Test

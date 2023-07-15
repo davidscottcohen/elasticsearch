@@ -20,3 +20,4 @@ public class ContainsAssertionTests extends ESTestCase {
         expectThrows(AssertionError.class, () -> containsAssertion.doAssert("partial match", "foo"));
     }
 }
+// Test

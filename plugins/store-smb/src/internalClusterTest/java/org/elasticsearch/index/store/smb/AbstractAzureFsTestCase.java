@@ -36,3 +36,4 @@ public abstract class AbstractAzureFsTestCase extends ESIntegTestCase {
         assertThat(response.getHits().getTotalHits().value, is(nbDocs));
     }
 }
+// Test

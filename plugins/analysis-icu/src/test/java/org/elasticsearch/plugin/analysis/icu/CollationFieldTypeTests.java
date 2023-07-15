@@ -160,3 +160,4 @@ public class CollationFieldTypeTests extends FieldTypeTestCase {
         assertEquals("Cannot search on field [field] since it is not indexed.", e.getMessage());
     }
 }
+// Test

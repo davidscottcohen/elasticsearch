@@ -140,3 +140,4 @@ public class ElasticsearchJavadocPlugin implements Plugin<Project> {
         return project.getVersion().toString().endsWith("-SNAPSHOT") ? "https://snapshots.elastic.co" : "https://artifacts.elastic.co";
     }
 }
+// Test

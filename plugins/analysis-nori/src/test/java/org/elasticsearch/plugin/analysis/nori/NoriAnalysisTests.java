@@ -218,3 +218,4 @@ public class NoriAnalysisTests extends ESTokenStreamTestCase {
         return AnalysisTestsHelper.createTestAnalysisFromSettings(settings, new AnalysisNoriPlugin());
     }
 }
+// Test

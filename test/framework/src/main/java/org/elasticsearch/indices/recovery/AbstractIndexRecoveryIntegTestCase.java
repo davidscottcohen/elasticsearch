@@ -596,3 +596,4 @@ public abstract class AbstractIndexRecoveryIntegTestCase extends ESIntegTestCase
         }
     }
 }
+// Test

@@ -71,3 +71,4 @@ public class ExampleCatAction extends AbstractCatAction {
         return table;
     }
 }
+// Test

@@ -32,3 +32,4 @@ public class TestGeoShapeFieldMapperPlugin extends Plugin implements MapperPlugi
         return Collections.unmodifiableMap(mappers);
     }
 }
+// Test

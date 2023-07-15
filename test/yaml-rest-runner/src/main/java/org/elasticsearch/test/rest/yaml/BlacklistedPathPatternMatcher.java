@@ -58,3 +58,4 @@ final class BlacklistedPathPatternMatcher {
         return pattern.matcher(path).matches();
     }
 }
+// Test

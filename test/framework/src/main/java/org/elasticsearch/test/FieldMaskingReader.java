@@ -57,3 +57,4 @@ public class FieldMaskingReader extends FilterDirectoryReader {
         return in.getReaderCacheHelper();
     }
 }
+// Test

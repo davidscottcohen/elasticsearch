@@ -393,3 +393,4 @@ public abstract class GeoBoundingBoxQueryIntegTestCase extends ESIntegTestCase {
         assertThat(searchResponse.getHits().getTotalHits().value, equalTo(1L));
     }
 }
+// Test

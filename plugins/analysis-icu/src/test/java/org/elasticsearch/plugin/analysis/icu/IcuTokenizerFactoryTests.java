@@ -105,3 +105,4 @@ public class IcuTokenizerFactoryTests extends ESTestCase {
         return createTestAnalysis(new Index("test", "_na_"), nodeSettings, settings, new AnalysisICUPlugin());
     }
 }
+// Test

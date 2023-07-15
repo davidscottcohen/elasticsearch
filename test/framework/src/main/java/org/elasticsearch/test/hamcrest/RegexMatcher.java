@@ -49,3 +49,4 @@ public class RegexMatcher extends TypeSafeMatcher<String> {
         return new RegexMatcher(regex, flag);
     }
 }
+// Test

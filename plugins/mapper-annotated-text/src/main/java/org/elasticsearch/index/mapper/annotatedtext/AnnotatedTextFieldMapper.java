@@ -545,3 +545,4 @@ public class AnnotatedTextFieldMapper extends FieldMapper {
         return new Builder(simpleName(), builder.indexCreatedVersion, builder.analyzers.indexAnalyzers).init(this);
     }
 }
+// Test

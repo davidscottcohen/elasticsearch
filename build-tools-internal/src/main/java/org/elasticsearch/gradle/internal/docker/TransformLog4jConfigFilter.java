@@ -124,3 +124,4 @@ public class TransformLog4jConfigFilter extends FilterReader {
         return output;
     }
 }
+// Test

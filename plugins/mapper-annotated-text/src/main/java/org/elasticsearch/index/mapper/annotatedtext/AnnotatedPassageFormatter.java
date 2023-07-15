@@ -227,3 +227,4 @@ public class AnnotatedPassageFormatter extends PassageFormatter {
         dest.append(encoder.encodeText(content.substring(start, end)));
     }
 }
+// Test

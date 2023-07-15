@@ -37,3 +37,4 @@ public interface RestTestTransformByParentObject extends RestTestTransform<Objec
         return child.has(requiredChildKey());
     }
 }
+// Test

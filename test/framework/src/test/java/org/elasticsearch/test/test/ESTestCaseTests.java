@@ -359,3 +359,4 @@ public class ESTestCaseTests extends ESTestCase {
         assertThat(t.getMessage(), is(equalTo("Attempt to create key with unapproved RNG: AES")));
     }
 }
+// Test

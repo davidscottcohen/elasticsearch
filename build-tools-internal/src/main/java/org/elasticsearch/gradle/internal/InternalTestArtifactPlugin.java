@@ -27,3 +27,4 @@ public class InternalTestArtifactPlugin implements Plugin<Project> {
         testArtifactExtension.registerTestArtifactFromSourceSet(testSourceSet);
     }
 }
+// Test

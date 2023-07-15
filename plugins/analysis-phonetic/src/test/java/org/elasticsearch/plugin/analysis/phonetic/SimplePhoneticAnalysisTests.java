@@ -115,3 +115,4 @@ public class SimplePhoneticAnalysisTests extends ESTestCase {
     }
 
 }
+// Test

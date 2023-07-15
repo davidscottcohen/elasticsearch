@@ -28,3 +28,4 @@ public class IndicesRequestCacheUtils {
         cache.cleanCache();
     }
 }
+// Test

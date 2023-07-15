@@ -40,3 +40,4 @@ abstract class AbstractCustomJavaToolchainResolver implements JavaToolchainResol
         return givenVendor.matches("any") || givenVendor.equals(expectedVendor);
     }
 }
+// Test

@@ -180,3 +180,4 @@ public class RestResourcesPlugin implements Plugin<Project> {
         defaultSourceSet.getOutput().dir(copyRestYamlTestTask.map(CopyRestTestsTask::getOutputResourceDir));
     }
 }
+// Test

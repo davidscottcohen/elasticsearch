@@ -38,3 +38,4 @@ public class ReplaceKeyInLength extends ReplaceByKey {
         lengthNode.set(getNewChildKey(), previousValue);
     }
 }
+// Test

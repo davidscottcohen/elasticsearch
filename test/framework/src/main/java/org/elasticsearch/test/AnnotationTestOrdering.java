@@ -37,3 +37,4 @@ public class AnnotationTestOrdering implements Comparator<TestMethodAndParams> {
         int value();
     }
 }
+// Test

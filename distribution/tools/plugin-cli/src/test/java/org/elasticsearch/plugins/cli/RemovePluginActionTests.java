@@ -314,3 +314,4 @@ public class RemovePluginActionTests extends ESTestCase {
     }
 
 }
+// Test

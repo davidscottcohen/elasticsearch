@@ -517,3 +517,4 @@ public class KeyStoreWrapperTests extends ESTestCase {
         return randomBoolean() ? new char[0] : randomAlphaOfLengthBetween(4, 24).toCharArray();
     }
 }
+// Test

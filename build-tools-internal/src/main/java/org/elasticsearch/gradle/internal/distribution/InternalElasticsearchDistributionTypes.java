@@ -31,3 +31,4 @@ public class InternalElasticsearchDistributionTypes {
         DOCKER_CLOUD_ESS
     );
 }
+// Test

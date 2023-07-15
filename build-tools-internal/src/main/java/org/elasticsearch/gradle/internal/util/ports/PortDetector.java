@@ -11,3 +11,4 @@ package org.elasticsearch.gradle.internal.util.ports;
 public interface PortDetector {
     boolean isAvailable(int port);
 }
+// Test

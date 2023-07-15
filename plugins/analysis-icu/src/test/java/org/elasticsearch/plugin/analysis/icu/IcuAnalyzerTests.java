@@ -62,3 +62,4 @@ public class IcuAnalyzerTests extends BaseTokenStreamTestCase {
     }
 
 }
+// Test

@@ -23,3 +23,4 @@ public class ExampleWhitelistedInstance {
         return value;
     }
 }
+// Test

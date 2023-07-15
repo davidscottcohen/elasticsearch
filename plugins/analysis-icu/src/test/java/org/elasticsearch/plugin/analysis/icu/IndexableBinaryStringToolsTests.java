@@ -257,3 +257,4 @@ public class IndexableBinaryStringToolsTests extends LuceneTestCase {
         return buf.toString();
     }
 }
+// Test

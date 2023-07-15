@@ -23,3 +23,4 @@ public class AnalysisPhoneticPlugin extends Plugin implements AnalysisPlugin {
         return singletonMap("phonetic", PhoneticTokenFilterFactory::new);
     }
 }
+// Test

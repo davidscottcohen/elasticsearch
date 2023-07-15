@@ -62,3 +62,4 @@ public class SnykDependencyGraphBuilder {
         loadGraph(root, deps);
     }
 }
+// Test

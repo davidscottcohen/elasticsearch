@@ -164,3 +164,4 @@ public class ProcrunCommandTests extends WindowsServiceCliTestCase {
         assertServiceArgs(Map.of("Foo", "bar"));
     }
 }
+// Test

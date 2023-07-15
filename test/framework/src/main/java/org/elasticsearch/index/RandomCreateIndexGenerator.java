@@ -150,3 +150,4 @@ public final class RandomCreateIndexGenerator {
         return alias;
     }
 }
+// Test

@@ -39,3 +39,4 @@ public class ShellRetry {
         return commandWithRetry.toString().replaceAll(" *\n", " \\\\\n");
     }
 }
+// Test

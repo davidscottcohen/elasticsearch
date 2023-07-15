@@ -48,3 +48,4 @@ public class IcuFoldingTokenFilterFactory extends AbstractTokenFilterFactory imp
     }
 
 }
+// Test

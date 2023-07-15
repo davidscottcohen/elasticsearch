@@ -51,3 +51,4 @@ class ClasspathResource implements Resource {
         );
     }
 }
+// Test

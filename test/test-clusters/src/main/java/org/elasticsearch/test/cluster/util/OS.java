@@ -77,3 +77,4 @@ public enum OS {
         return conditional.supply();
     }
 }
+// Test

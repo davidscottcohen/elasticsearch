@@ -29,3 +29,4 @@ class StringResource implements Resource {
     }
 
 }
+// Test

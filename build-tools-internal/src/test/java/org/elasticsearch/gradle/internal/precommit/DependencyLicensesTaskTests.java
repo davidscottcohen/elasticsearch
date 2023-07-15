@@ -253,3 +253,4 @@ public class DependencyLicensesTaskTests {
         return project.getConfigurations().getByName("compileClasspath");
     }
 }
+// Test

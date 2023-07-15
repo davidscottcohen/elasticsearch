@@ -148,3 +148,4 @@ public class GeoIpCliTests extends CommandTestCase {
         return new GeoIpCli();
     }
 }
+// Test

@@ -55,3 +55,4 @@ public class RestTestFromSnippetsTaskTests {
         assertFalse((boolean) RestTestsFromSnippetsTask.shouldAddShardFailureCheck("_ml/datafeeds/datafeed-id/_preview"));
     }
 }
+// Test

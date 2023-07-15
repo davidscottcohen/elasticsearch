@@ -71,3 +71,4 @@ public abstract class AbstractChunkedSerializingTestCase<T extends ChunkedToXCon
         assertEquals(expectedChunkCount.applyAsInt(instance), chunkCount);
     }
 }
+// Test

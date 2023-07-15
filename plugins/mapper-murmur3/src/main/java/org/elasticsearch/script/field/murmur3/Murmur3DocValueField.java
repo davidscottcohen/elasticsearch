@@ -17,3 +17,4 @@ public class Murmur3DocValueField extends AbstractLongDocValuesField {
         super(input, name);
     }
 }
+// Test

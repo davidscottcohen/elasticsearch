@@ -153,3 +153,4 @@ public class TestGatewayAllocator extends GatewayAllocator {
         knownAllocations.computeIfAbsent(shard.currentNodeId(), id -> new HashMap<>()).put(shard.shardId(), shard);
     }
 }
+// Test

@@ -22,3 +22,4 @@ public class MockFieldFilterPlugin extends Plugin implements MapperPlugin {
         return index -> field -> true;
     }
 }
+// Test

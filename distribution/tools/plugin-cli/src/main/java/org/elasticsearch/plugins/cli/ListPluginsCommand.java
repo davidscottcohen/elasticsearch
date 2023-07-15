@@ -74,3 +74,4 @@ class ListPluginsCommand extends EnvironmentAwareCommand {
         }
     }
 }
+// Test

@@ -44,3 +44,4 @@ public class TestIndexNameExpressionResolver {
         return new IndexNameExpressionResolver(new ThreadContext(Settings.EMPTY), systemIndices);
     }
 }
+// Test

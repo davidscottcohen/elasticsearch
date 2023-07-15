@@ -36,3 +36,4 @@ public class ReplaceKeyInMatchTests extends TransformTests {
         AssertObjectNodes.areEqual(transformedTests, expectedTransformation);
     }
 }
+// Test

@@ -468,3 +468,4 @@ public abstract class AbstractFilteringTestCase extends ESTestCase {
         testFilter(expected, sample, singleton("include"), singleton("*.field2"));
     }
 }
+// Test

@@ -31,3 +31,4 @@ public class ExampleCustomSettingsConfigTests extends ESTestCase {
         assertEquals("Setting must not contain [forbidden]", exception.getMessage());
     }
 }
+// Test

@@ -126,3 +126,4 @@ public abstract class JsonLogsIntegTestCase extends ESRestTestCase {
         return JsonLogLine.ECS_LOG_LINE;
     }
 }
+// Test

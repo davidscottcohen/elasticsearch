@@ -46,3 +46,4 @@ public interface SecureSettingsLoader {
 
     boolean supportsSecurityAutoConfiguration();
 }
+// Test

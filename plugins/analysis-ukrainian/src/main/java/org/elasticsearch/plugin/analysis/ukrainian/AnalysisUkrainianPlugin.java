@@ -25,3 +25,4 @@ public class AnalysisUkrainianPlugin extends Plugin implements AnalysisPlugin {
         return singletonMap("ukrainian", UkrainianAnalyzerProvider::new);
     }
 }
+// Test

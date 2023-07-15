@@ -26,3 +26,4 @@ public class ExampleStableAnalysisClientYamlTestSuiteIT extends ESClientYamlSuit
         return ESClientYamlSuiteTestCase.createParameters();
     }
 }
+// Test

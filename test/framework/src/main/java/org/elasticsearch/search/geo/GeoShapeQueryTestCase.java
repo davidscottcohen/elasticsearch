@@ -210,3 +210,4 @@ public abstract class GeoShapeQueryTestCase extends BaseShapeQueryTestCase<GeoSh
         return GeometryTestUtils.randomPolygon(false);
     }
 }
+// Test

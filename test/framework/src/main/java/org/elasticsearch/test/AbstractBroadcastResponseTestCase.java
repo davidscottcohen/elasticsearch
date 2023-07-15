@@ -131,3 +131,4 @@ public abstract class AbstractBroadcastResponseTestCase<T extends BroadcastRespo
             {"_shards":{"total":10,"successful":10,"failed":0}}""", output);
     }
 }
+// Test

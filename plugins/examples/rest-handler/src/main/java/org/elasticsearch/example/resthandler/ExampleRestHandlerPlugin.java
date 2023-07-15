@@ -38,3 +38,4 @@ public class ExampleRestHandlerPlugin extends Plugin implements ActionPlugin {
         return singletonList(new ExampleCatAction());
     }
 }
+// Test

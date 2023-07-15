@@ -26,3 +26,4 @@ class WindowsServiceStopCommand extends ProcrunCommand {
         return String.format(java.util.Locale.ROOT, "Failed stopping '%s' service", serviceId);
     }
 }
+// Test

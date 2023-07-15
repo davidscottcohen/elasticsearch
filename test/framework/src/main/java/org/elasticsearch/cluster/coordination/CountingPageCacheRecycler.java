@@ -59,3 +59,4 @@ public class CountingPageCacheRecycler extends PageCacheRecycler {
         assertEquals(0, openPages);
     }
 }
+// Test

@@ -24,3 +24,4 @@ public class ErrorQueryClientYamlTestSuiteIT extends ESClientYamlSuiteTestCase {
         return ESClientYamlSuiteTestCase.createParameters();
     }
 }
+// Test

@@ -15,3 +15,4 @@ public class ReplaceIsTrue extends ReplaceTextual {
         super("is_true", valueToBeReplaced, replacementNode);
     }
 }
+// Test

@@ -36,3 +36,4 @@ public final class DefaultSystemMemoryInfo implements SystemMemoryInfo {
         return totalMemory.getAsLong();
     }
 }
+// Test

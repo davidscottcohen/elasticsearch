@@ -51,3 +51,4 @@ public class InternalTestClustersPlugin implements Plugin<Project> {
         return Boolean.parseBoolean(System.getProperty("tests.configure_test_clusters_with_one_processor", "false"));
     }
 }
+// Test

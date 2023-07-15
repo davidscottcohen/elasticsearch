@@ -49,3 +49,4 @@ public class S3HttpFixtureWithSessionToken extends S3HttpFixture {
         fixture.start();
     }
 }
+// Test

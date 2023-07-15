@@ -60,3 +60,4 @@ public class BlacklistedPathPatternMatcherTests extends ESTestCase {
         assertFalse("Pattern [" + pattern + "] should not have matched path [" + path + "]", matcher.isSuffixMatch(path));
     }
 }
+// Test

@@ -102,3 +102,4 @@ public abstract class TestCustomMetadata extends AbstractNamedDiffable<Metadata.
         return "[" + getWriteableName() + "][" + data + "]";
     }
 }
+// Test

@@ -25,3 +25,4 @@ public class NoriReadingFormFilterFactory extends AbstractTokenFilterFactory {
         return new KoreanReadingFormFilter(tokenStream);
     }
 }
+// Test

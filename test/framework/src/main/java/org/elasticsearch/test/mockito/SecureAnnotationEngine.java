@@ -25,3 +25,4 @@ public class SecureAnnotationEngine implements AnnotationEngine {
         return wrap(() -> delegate.process(clazz, testInstance));
     }
 }
+// Test

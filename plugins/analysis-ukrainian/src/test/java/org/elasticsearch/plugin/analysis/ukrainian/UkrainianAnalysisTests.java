@@ -28,3 +28,4 @@ public class UkrainianAnalysisTests extends ESTestCase {
         MatcherAssert.assertThat(analyzer, instanceOf(UkrainianMorfologikAnalyzer.class));
     }
 }
+// Test

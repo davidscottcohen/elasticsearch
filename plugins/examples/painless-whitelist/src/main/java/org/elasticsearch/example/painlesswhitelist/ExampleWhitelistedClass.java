@@ -49,3 +49,4 @@ public class ExampleWhitelistedClass {
         // some logic here
     }
 }
+// Test

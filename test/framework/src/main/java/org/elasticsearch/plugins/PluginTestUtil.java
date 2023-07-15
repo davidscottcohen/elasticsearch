@@ -66,3 +66,4 @@ public class PluginTestUtil {
         Files.writeString(namedComponentsFile, namedComponentsJson);
     }
 }
+// Test

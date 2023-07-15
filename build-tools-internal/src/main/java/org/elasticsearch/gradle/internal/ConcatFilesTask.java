@@ -102,3 +102,4 @@ public class ConcatFilesTask extends DefaultTask {
     }
 
 }
+// Test

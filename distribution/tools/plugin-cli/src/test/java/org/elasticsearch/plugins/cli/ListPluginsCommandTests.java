@@ -245,3 +245,4 @@ public class ListPluginsCommandTests extends CommandTestCase {
         };
     }
 }
+// Test

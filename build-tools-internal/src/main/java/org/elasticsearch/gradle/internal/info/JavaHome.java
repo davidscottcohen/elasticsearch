@@ -32,3 +32,4 @@ public class JavaHome {
         return javaHome;
     }
 }
+// Test

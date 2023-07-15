@@ -416,3 +416,4 @@ public class GlobalBuildInfoPlugin implements Plugin<Project> {
         }
     }
 }
+// Test

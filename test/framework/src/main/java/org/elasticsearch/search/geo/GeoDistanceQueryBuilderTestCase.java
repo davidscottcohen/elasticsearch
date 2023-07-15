@@ -381,3 +381,4 @@ public abstract class GeoDistanceQueryBuilderTestCase extends AbstractQueryTestC
         assertEquals("[geo_distance] query doesn't support multiple fields, found [point1] and [point2]", e.getMessage());
     }
 }
+// Test

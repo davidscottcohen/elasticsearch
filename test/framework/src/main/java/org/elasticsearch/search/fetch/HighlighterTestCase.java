@@ -157,3 +157,4 @@ public class HighlighterTestCase extends MapperServiceTestCase {
         }
     }
 }
+// Test

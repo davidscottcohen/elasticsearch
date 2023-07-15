@@ -416,3 +416,4 @@ public class S3HttpHandlerTests extends ESTestCase {
     }
 
 }
+// Test

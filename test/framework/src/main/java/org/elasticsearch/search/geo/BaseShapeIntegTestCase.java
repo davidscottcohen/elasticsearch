@@ -487,3 +487,4 @@ public abstract class BaseShapeIntegTestCase<T extends AbstractGeometryQueryBuil
         return out.toByteArray();
     }
 }
+// Test

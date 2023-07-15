@@ -49,3 +49,4 @@ public class AbstractXContentTestCaseTests extends ESTestCase {
         }
     }
 }
+// Test

@@ -30,3 +30,4 @@ public class CheckForbiddenApisTask extends CheckForbiddenApis {
         return super.getClassFiles();
     }
 }
+// Test

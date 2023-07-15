@@ -94,3 +94,4 @@ public class RemoveWarningsTests extends TransformTests {
         return false;
     }
 }
+// Test

@@ -134,3 +134,4 @@ public interface ClusterHandle extends Closeable {
      */
     InputStream getNodeLog(int index, LogType logType);
 }
+// Test

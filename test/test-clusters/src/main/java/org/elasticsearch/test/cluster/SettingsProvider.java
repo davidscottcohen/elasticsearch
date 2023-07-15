@@ -28,3 +28,4 @@ public interface SettingsProvider {
      */
     Map<String, String> get(LocalNodeSpec nodeSpec);
 }
+// Test

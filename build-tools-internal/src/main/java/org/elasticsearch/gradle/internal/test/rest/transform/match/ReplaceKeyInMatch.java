@@ -37,3 +37,4 @@ public class ReplaceKeyInMatch extends ReplaceByKey {
         matchNode.set(getNewChildKey(), previousValue);
     }
 }
+// Test

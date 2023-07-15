@@ -104,3 +104,4 @@ public class IcuTokenizerFactory extends AbstractTokenizerFactory {
         return new RuleBasedBreakIterator(rules.toString());
     }
 }
+// Test

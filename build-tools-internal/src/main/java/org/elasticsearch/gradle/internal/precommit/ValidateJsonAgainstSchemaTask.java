@@ -149,3 +149,4 @@ public class ValidateJsonAgainstSchemaTask extends DefaultTask {
         }
     }
 }
+// Test

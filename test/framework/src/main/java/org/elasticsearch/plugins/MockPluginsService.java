@@ -158,3 +158,4 @@ public class MockPluginsService extends PluginsService {
         // tests don't run modular
     }
 }
+// Test

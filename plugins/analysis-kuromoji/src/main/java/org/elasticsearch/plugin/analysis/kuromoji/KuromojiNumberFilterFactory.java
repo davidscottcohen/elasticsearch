@@ -25,3 +25,4 @@ public class KuromojiNumberFilterFactory extends AbstractTokenFilterFactory {
         return new JapaneseNumberFilter(tokenStream);
     }
 }
+// Test

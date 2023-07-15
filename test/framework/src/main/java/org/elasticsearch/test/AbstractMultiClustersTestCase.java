@@ -249,3 +249,4 @@ public abstract class AbstractMultiClustersTestCase extends ESTestCase {
         };
     }
 }
+// Test

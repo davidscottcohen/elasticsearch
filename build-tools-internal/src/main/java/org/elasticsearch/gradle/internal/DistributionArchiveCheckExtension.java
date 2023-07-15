@@ -19,3 +19,4 @@ public class DistributionArchiveCheckExtension {
         this.expectedMlLicenses = factory.listProperty(String.class);
     }
 }
+// Test

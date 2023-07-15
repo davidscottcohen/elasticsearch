@@ -68,3 +68,4 @@ public class SimplePolishTokenFilterTests extends ESTestCase {
     }
 
 }
+// Test

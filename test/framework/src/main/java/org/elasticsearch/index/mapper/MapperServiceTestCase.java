@@ -771,3 +771,4 @@ public abstract class MapperServiceTestCase extends ESTestCase {
         });
     }
 }
+// Test

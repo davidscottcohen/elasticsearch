@@ -72,3 +72,4 @@ public class GreaterThanEqualToAssertion extends Assertion {
         return "field [" + getField() + "] is not greater than or equal to [" + getExpectedValue() + "]";
     }
 }
+// Test

@@ -97,3 +97,4 @@ public class TestThreadInfoPatternConverter extends LogEventPatternConverter {
         return "[" + threadName + "]";
     }
 }
+// Test

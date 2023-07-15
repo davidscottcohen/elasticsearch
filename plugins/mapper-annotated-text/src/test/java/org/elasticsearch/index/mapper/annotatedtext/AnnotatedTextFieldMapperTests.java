@@ -603,3 +603,4 @@ public class AnnotatedTextFieldMapperTests extends MapperTestCase {
         throw new AssumptionViolatedException("not supported");
     }
 }
+// Test

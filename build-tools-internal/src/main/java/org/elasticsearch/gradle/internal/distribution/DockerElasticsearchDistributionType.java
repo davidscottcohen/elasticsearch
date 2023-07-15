@@ -24,3 +24,4 @@ public class DockerElasticsearchDistributionType implements ElasticsearchDistrib
         return true;
     }
 }
+// Test

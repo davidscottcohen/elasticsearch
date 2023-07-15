@@ -39,3 +39,4 @@ public abstract class ActionListenerUtils {
         return any(Collection.class);
     }
 }
+// Test

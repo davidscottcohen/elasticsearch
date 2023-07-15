@@ -68,3 +68,4 @@ public class ExampleRescoreBuilderTests extends AbstractWireSerializingTestCase<
         assertEquals(1.0f, docs.scoreDocs[2].score, 0.0f);
     }
 }
+// Test

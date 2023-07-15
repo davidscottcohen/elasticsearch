@@ -135,3 +135,4 @@ public class StubbableConnectionManager implements ConnectionManager {
         boolean connectedNodes(ConnectionManager connectionManager, DiscoveryNode node);
     }
 }
+// Test

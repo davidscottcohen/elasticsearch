@@ -139,3 +139,4 @@ public class ForbiddenPatternsTaskTests {
         assertEquals("done", result.get());
     }
 }
+// Test

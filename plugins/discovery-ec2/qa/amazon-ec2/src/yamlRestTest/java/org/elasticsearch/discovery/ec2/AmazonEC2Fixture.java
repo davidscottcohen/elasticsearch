@@ -248,3 +248,4 @@ public class AmazonEC2Fixture extends AbstractHttpFixture {
         return Paths.get(dir);
     }
 }
+// Test

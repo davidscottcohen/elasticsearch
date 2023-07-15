@@ -538,3 +538,4 @@ public abstract class GeoBoundingBoxQueryBuilderTestCase extends AbstractQueryTe
         assertThat(e.getMessage(), containsString("failed to find geo field [unmapped]"));
     }
 }
+// Test

@@ -253,3 +253,4 @@ public class CustomAuthorizationEngine implements AuthorizationEngine {
         return Arrays.asList(((CustomAuthorizationInfo)authorizationInfo).asMap().get("roles")).contains("custom_superuser");
     }
 }
+// Test

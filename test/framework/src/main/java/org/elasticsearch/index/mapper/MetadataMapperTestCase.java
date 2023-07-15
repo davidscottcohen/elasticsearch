@@ -188,3 +188,4 @@ public abstract class MetadataMapperTestCase extends MapperServiceTestCase {
         }
     }
 }
+// Test

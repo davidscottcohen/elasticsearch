@@ -47,3 +47,4 @@ public class FilePermissionsPrecommitPlugin extends PrecommitPlugin {
         });
     }
 }
+// Test

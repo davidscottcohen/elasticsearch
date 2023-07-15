@@ -38,3 +38,4 @@ public class ExampleRestHandlerClientYamlTestSuiteIT extends ESClientYamlSuiteTe
         return ESClientYamlSuiteTestCase.createParameters();
     }
 }
+// Test

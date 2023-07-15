@@ -11,3 +11,4 @@ package org.elasticsearch.gradle.internal;
 import org.gradle.api.Task;
 
 public interface FixtureStop extends Task {}
+// Test

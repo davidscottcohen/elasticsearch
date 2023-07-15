@@ -113,3 +113,4 @@ public class AnsiConsoleLoaderTests extends ESTestCase {
         return new AnsiPrintStream(ansiOutputStream, randomBoolean());
     }
 }
+// Test

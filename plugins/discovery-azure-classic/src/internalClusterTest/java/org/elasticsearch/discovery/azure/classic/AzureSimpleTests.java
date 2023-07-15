@@ -54,3 +54,4 @@ public class AzureSimpleTests extends AbstractAzureComputeServiceTestCase {
         assertThat(e.getMessage(), containsString("invalid value for host type [do_not_exist]"));
     }
 }
+// Test

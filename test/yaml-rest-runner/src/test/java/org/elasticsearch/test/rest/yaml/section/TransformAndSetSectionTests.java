@@ -79,3 +79,4 @@ public class TransformAndSetSectionTests extends AbstractClientYamlTestFragmentP
         assertThat(e.getMessage(), is("transform_and_set section must set at least a value"));
     }
 }
+// Test

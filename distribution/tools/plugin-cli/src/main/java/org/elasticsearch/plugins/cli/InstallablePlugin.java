@@ -71,3 +71,4 @@ public class InstallablePlugin {
         return "PluginDescriptor{id='" + id + "', location='" + location + "'}";
     }
 }
+// Test

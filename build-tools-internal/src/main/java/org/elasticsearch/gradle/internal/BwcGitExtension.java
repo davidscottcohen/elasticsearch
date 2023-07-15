@@ -48,3 +48,4 @@ public class BwcGitExtension {
         return checkoutDir;
     }
 }
+// Test

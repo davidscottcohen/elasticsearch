@@ -246,3 +246,4 @@ public final class HdfsRepository extends BlobStoreRepository {
         return chunkSize;
     }
 }
+// Test

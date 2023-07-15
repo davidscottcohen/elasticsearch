@@ -57,3 +57,4 @@ class ProxyUtils {
         return Strings.isNullOrEmpty(hostname) == false && port != null && port.matches("^\\d+$");
     }
 }
+// Test

@@ -32,3 +32,4 @@ public class StringTemplatePlugin implements Plugin<Project> {
         });
     }
 }
+// Test

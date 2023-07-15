@@ -41,3 +41,4 @@ public class MatchAssertionTests extends ESTestCase {
         assertThat(e.getMessage(), containsString("Expected a map containing\na: expected null but was <missing>"));
     }
 }
+// Test

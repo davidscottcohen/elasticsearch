@@ -161,3 +161,4 @@ public class PruneChangelogsTask extends DefaultTask {
         Set<File> deleteFiles(Set<File> filesToDelete);
     }
 }
+// Test

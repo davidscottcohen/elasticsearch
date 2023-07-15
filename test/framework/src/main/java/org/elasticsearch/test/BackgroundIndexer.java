@@ -358,3 +358,4 @@ public class BackgroundIndexer implements AutoCloseable {
         return this.ids;
     }
 }
+// Test

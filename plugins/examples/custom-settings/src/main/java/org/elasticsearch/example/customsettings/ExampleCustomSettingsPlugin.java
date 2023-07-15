@@ -55,3 +55,4 @@ public class ExampleCustomSettingsPlugin extends Plugin {
         return builder.build();
     }
 }
+// Test

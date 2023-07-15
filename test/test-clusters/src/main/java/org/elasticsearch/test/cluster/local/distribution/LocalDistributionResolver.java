@@ -69,3 +69,4 @@ public class LocalDistributionResolver implements DistributionResolver {
         return delegate.resolve(version, type);
     }
 }
+// Test

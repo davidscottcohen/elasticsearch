@@ -206,3 +206,4 @@ public class ThrowingLeafReaderWrapper extends SequentialStoredFieldsLeafReader 
         return reader;
     }
 }
+// Test

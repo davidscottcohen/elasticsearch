@@ -667,3 +667,4 @@ public abstract class AbstractBytesReferenceTestCase extends ESTestCase {
         assertEquals(-1, bytesReference.indexOf(missing, randomIntBetween(0, Math.max(0, size - 1))));
     }
 }
+// Test

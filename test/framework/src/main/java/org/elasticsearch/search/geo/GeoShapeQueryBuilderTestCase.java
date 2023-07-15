@@ -229,3 +229,4 @@ public abstract class GeoShapeQueryBuilderTestCase extends AbstractQueryTestCase
         return Collections.singletonMap("shape", "Required [type]");
     }
 }
+// Test

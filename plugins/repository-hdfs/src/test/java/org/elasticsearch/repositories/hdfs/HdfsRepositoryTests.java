@@ -61,3 +61,4 @@ public class HdfsRepositoryTests extends AbstractThirdPartyRepositoryTestCase {
         }
     }
 }
+// Test

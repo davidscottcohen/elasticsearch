@@ -77,3 +77,4 @@ public class SimpleHeuristic extends SignificanceHeuristic {
         return subsetFreq / subsetSize > supersetFreq / supersetSize ? 2.0 : 1.0;
     }
 }
+// Test

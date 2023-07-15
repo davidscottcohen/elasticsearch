@@ -57,3 +57,4 @@ public class InternalJavaRestTestPlugin implements Plugin<Project> {
         GradleUtils.setupIdeForTestSourceSet(project, javaTestSourceSet);
     }
 }
+// Test

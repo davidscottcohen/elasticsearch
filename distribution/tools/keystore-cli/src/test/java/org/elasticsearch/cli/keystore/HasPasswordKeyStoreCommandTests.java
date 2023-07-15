@@ -57,3 +57,4 @@ public class HasPasswordKeyStoreCommandTests extends KeyStoreCommandTestCase {
         assertThat(output, is(emptyString()));
     }
 }
+// Test

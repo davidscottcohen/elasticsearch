@@ -90,3 +90,4 @@ public abstract class FieldTypeTestCase extends ESTestCase {
         return fetcher.fetchValues(null, -1, new ArrayList<>());
     }
 }
+// Test
