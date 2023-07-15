@@ -66,3 +66,4 @@ public final class InternalSettingsPlugin extends Plugin {
         );
     }
 }
+// Test

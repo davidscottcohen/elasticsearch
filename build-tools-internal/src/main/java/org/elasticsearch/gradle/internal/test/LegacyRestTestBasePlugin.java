@@ -116,3 +116,4 @@ public class LegacyRestTestBasePlugin implements Plugin<Project> {
         return providerFactory.systemProperty(propName).getOrNull();
     }
 }
+// Test

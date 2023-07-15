@@ -55,3 +55,4 @@ class ProxyMatcher extends TypeSafeMatcher<Proxy> {
         description.appendText("a proxy instance of type [" + type + "] pointing at [" + hostname + ":" + port + "]");
     }
 }
+// Test

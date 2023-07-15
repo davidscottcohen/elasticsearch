@@ -57,3 +57,4 @@ public class SmartChineseStopTokenFilterFactory extends AbstractTokenFilterFacto
     }
 
 }
+// Test

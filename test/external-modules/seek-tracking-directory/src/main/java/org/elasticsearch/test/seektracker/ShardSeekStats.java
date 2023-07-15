@@ -34,3 +34,4 @@ public record ShardSeekStats(String shard, Map<String, Long> seeksPerFile) imple
         return builder.startObject().field("shard", this.shard).field("seeks", seeksPerFile).endObject();
     }
 }
+// Test

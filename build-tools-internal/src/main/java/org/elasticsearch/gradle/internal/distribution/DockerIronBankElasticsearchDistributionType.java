@@ -24,3 +24,4 @@ public class DockerIronBankElasticsearchDistributionType implements Elasticsearc
         return true;
     }
 }
+// Test

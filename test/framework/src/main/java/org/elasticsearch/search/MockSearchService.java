@@ -145,3 +145,4 @@ public class MockSearchService extends SearchService {
         super.checkCancelled(onCheckCancelled.apply(task));
     }
 }
+// Test

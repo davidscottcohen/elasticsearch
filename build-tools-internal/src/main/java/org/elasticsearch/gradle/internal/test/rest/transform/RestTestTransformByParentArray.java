@@ -22,3 +22,4 @@ public interface RestTestTransformByParentArray extends RestTestTransform<ArrayN
      */
     String getKeyOfArrayToFind();
 }
+// Test

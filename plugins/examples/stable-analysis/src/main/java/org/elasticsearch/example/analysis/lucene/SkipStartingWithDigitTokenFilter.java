@@ -29,3 +29,4 @@ public class SkipStartingWithDigitTokenFilter extends FilteringTokenFilter {
         return termAtt.buffer()[0] != (char) (tokenFilterNumber + '0');
     }
 }
+// Test

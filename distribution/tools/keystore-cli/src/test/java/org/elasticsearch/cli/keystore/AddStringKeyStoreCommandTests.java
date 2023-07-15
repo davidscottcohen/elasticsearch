@@ -269,3 +269,4 @@ public class AddStringKeyStoreCommandTests extends KeyStoreCommandTestCase {
         input = new ByteArrayInputStream(inputStr.getBytes(StandardCharsets.UTF_8));
     }
 }
+// Test

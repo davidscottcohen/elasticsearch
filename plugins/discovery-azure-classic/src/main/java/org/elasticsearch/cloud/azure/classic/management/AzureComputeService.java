@@ -100,3 +100,4 @@ public interface AzureComputeService {
 
     HostedServiceGetDetailedResponse getServiceDetails();
 }
+// Test

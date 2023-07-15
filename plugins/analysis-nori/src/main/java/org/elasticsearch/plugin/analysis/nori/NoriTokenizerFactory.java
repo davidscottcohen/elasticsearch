@@ -77,3 +77,4 @@ public class NoriTokenizerFactory extends AbstractTokenizerFactory {
     }
 
 }
+// Test

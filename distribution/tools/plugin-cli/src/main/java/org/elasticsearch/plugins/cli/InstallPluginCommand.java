@@ -90,3 +90,4 @@ class InstallPluginCommand extends EnvironmentAwareCommand {
         }
     }
 }
+// Test

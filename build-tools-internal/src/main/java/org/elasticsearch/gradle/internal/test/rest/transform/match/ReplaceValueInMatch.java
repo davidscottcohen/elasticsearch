@@ -40,3 +40,4 @@ public class ReplaceValueInMatch extends ReplaceByKey {
         matchNode.set(getNewChildKey(), getReplacementNode());
     }
 }
+// Test

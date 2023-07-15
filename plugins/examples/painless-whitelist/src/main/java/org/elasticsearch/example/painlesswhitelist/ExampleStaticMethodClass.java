@@ -13,3 +13,4 @@ public class ExampleStaticMethodClass {
         return x + y;
     }
 }
+// Test

@@ -120,3 +120,4 @@ final class RerunTestResultProcessor implements TestResultProcessor {
         return new ArrayList<>(activeDescriptorsById.values());
     }
 }
+// Test

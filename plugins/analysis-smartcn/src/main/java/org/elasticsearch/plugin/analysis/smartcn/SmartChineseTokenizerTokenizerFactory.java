@@ -26,3 +26,4 @@ public class SmartChineseTokenizerTokenizerFactory extends AbstractTokenizerFact
         return new HMMChineseTokenizer();
     }
 }
+// Test

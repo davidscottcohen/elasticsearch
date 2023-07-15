@@ -109,3 +109,4 @@ public class S3HttpFixtureWithSTS extends S3HttpFixture {
         fixture.start();
     }
 }
+// Test

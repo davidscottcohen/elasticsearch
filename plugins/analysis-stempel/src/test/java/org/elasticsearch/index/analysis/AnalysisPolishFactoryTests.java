@@ -62,3 +62,4 @@ public class AnalysisPolishFactoryTests extends AnalysisFactoryTestCase {
         BaseTokenStreamTestCase.checkRandomData(random(), analyzer, 100);
     }
 }
+// Test

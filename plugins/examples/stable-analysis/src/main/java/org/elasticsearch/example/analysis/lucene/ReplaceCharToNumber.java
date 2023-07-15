@@ -25,3 +25,4 @@ public class ReplaceCharToNumber extends MappingCharFilter {
         return builder.build();
     }
 }
+// Test

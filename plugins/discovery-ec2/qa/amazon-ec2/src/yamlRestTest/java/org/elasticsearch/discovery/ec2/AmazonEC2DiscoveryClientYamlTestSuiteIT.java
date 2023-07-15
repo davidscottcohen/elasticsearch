@@ -25,3 +25,4 @@ public class AmazonEC2DiscoveryClientYamlTestSuiteIT extends ESClientYamlSuiteTe
         return createParameters();
     }
 }
+// Test

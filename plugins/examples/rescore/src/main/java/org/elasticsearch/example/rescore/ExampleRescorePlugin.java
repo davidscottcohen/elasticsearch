@@ -22,3 +22,4 @@ public class ExampleRescorePlugin extends Plugin implements SearchPlugin {
                 new RescorerSpec<>(ExampleRescoreBuilder.NAME, ExampleRescoreBuilder::new, ExampleRescoreBuilder::fromXContent));
     }
 }
+// Test

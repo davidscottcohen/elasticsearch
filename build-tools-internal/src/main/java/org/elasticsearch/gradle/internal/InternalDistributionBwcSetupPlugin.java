@@ -356,3 +356,4 @@ public class InternalDistributionBwcSetupPlugin implements Plugin<Project> {
     }
 
 }
+// Test

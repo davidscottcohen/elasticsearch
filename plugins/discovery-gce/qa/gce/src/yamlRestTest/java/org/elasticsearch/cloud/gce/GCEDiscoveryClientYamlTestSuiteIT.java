@@ -25,3 +25,4 @@ public class GCEDiscoveryClientYamlTestSuiteIT extends ESClientYamlSuiteTestCase
         return ESClientYamlSuiteTestCase.createParameters();
     }
 }
+// Test

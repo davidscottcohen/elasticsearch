@@ -396,3 +396,4 @@ public class LoggingListenerTests extends ESTestCase {
     }
 
 }
+// Test

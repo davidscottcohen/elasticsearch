@@ -25,3 +25,4 @@ public class MockRemovePluginCommand extends RemovePluginCommand {
         return env;
     }
 }
+// Test

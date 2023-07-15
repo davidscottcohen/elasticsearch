@@ -37,3 +37,4 @@ public class RecoverySettingsChunkSizePlugin extends Plugin {
         return singletonList(CHUNK_SIZE_SETTING);
     }
 }
+// Test

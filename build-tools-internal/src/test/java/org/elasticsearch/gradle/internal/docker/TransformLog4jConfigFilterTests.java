@@ -157,3 +157,4 @@ public class TransformLog4jConfigFilterTests {
         assertThat(transformed, equalTo(expected));
     }
 }
+// Test

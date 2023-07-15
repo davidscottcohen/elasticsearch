@@ -19,3 +19,4 @@ public class SeekStatsAction extends ActionType<SeekStatsResponse> {
         super(NAME, SeekStatsResponse::new);
     }
 }
+// Test

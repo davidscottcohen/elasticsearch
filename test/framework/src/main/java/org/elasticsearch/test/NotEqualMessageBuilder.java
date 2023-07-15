@@ -185,3 +185,4 @@ public class NotEqualMessageBuilder {
         message.append('\n');
     }
 }
+// Test

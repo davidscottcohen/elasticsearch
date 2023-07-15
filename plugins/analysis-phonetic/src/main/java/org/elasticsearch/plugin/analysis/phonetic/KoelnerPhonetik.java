@@ -282,3 +282,4 @@ public class KoelnerPhonetik implements StringEncoder {
         return sb.toString();
     }
 }
+// Test

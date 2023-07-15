@@ -150,3 +150,4 @@ public class SizeMappingIT extends ESIntegTestCase {
         assertNull(searchResponse.getHits().getHits()[0].getFields().get("_size"));
     }
 }
+// Test

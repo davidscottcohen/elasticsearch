@@ -18,3 +18,4 @@ public class InternalPluginBuildPlugin implements Plugin<Project> {
         project.getPluginManager().apply(BaseInternalPluginBuildPlugin.class);
     }
 }
+// Test

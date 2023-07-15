@@ -25,3 +25,4 @@ public class DiscoveryAzureClassicClientYamlTestSuiteIT extends ESClientYamlSuit
         return ESClientYamlSuiteTestCase.createParameters();
     }
 }
+// Test

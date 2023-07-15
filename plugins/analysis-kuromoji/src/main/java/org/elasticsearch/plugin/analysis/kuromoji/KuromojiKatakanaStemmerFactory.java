@@ -29,3 +29,4 @@ public class KuromojiKatakanaStemmerFactory extends AbstractTokenFilterFactory {
         return new JapaneseKatakanaStemFilter(tokenStream, minimumLength);
     }
 }
+// Test

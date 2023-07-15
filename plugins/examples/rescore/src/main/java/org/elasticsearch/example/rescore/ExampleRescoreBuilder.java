@@ -221,3 +221,4 @@ public class ExampleRescoreBuilder extends RescorerBuilder<ExampleRescoreBuilder
         return TransportVersion.ZERO;
     }
 }
+// Test

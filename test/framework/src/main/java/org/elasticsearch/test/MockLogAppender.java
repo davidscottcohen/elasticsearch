@@ -274,3 +274,4 @@ public class MockLogAppender extends AbstractAppender {
         }
     }
 }
+// Test

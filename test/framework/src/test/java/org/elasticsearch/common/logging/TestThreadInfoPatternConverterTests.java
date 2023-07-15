@@ -39,3 +39,4 @@ public class TestThreadInfoPatternConverterTests extends ESTestCase {
         assertEquals("[" + unmatched + "]", threadInfo(unmatched));
     }
 }
+// Test

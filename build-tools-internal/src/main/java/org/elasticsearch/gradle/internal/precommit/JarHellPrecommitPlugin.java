@@ -33,3 +33,4 @@ public class JarHellPrecommitPlugin extends PrecommitPlugin {
         return project.getTasks().withType(JarHellTask.class).named("jarHell");
     }
 }
+// Test

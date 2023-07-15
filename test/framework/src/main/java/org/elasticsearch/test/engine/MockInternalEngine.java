@@ -69,3 +69,4 @@ final class MockInternalEngine extends InternalEngine {
         return super.acquireSearcherSupplier(wrapper.andThen(s -> support().wrapSearcher(s)), scope);
     }
 }
+// Test

@@ -12,3 +12,4 @@ package org.elasticsearch.gradle.internal.test.rest.transform;
  * A place to stash information about a test that is being transformed.
  */
 public record RestTestContext(String testName) {}
+// Test

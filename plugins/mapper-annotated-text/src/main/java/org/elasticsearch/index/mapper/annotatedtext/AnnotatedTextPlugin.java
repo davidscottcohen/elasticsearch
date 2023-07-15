@@ -29,3 +29,4 @@ public class AnnotatedTextPlugin extends Plugin implements MapperPlugin, SearchP
         return Collections.singletonMap(AnnotatedTextHighlighter.NAME, new AnnotatedTextHighlighter());
     }
 }
+// Test

@@ -318,3 +318,4 @@ public class ICUCollationKeywordFieldMapperTests extends MapperTestCase {
         throw new AssumptionViolatedException("not supported");
     }
 }
+// Test

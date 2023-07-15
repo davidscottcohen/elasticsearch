@@ -37,3 +37,4 @@ public class ReplaceKeyInDo extends ReplaceByKey {
         doNode.set(getNewChildKey(), previousValue);
     }
 }
+// Test

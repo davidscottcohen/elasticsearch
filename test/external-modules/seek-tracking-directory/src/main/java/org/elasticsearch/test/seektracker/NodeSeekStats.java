@@ -50,3 +50,4 @@ public class NodeSeekStats extends BaseNodeResponse implements ToXContentFragmen
         return seeks;
     }
 }
+// Test

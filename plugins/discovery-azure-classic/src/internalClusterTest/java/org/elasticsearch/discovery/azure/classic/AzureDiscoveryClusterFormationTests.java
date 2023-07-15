@@ -280,3 +280,4 @@ public class AzureDiscoveryClusterFormationTests extends ESIntegTestCase {
         ensureClusterSizeConsistency();
     }
 }
+// Test

@@ -42,3 +42,4 @@ public class SimpleIcuAnalysisTests extends ESTestCase {
         assertThat(charFilterFactory, instanceOf(IcuNormalizerCharFilterFactory.class));
     }
 }
+// Test

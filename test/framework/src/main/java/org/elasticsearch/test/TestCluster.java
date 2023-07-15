@@ -290,3 +290,4 @@ public abstract class TestCluster implements Closeable {
      */
     public abstract NamedWriteableRegistry getNamedWriteableRegistry();
 }
+// Test

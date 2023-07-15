@@ -350,3 +350,4 @@ public class SyncPluginsActionTests extends ESTestCase {
         );
     }
 }
+// Test

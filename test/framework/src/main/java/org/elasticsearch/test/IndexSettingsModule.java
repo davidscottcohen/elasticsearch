@@ -88,3 +88,4 @@ public class IndexSettingsModule extends AbstractModule {
         return new IndexSettings(indexMetadata, Settings.EMPTY, new IndexScopedSettings(Settings.EMPTY, settingSet));
     }
 }
+// Test

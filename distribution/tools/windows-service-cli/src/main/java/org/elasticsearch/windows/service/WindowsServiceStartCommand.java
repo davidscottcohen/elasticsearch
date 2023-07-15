@@ -26,3 +26,4 @@ class WindowsServiceStartCommand extends ProcrunCommand {
         return String.format(java.util.Locale.ROOT, "Failed starting '%s' service", serviceId);
     }
 }
+// Test

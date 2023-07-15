@@ -33,3 +33,4 @@ public class TestCircuitBreaker extends NoopCircuitBreaker {
         shouldBreak.set(false);
     }
 }
+// Test

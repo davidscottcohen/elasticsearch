@@ -24,3 +24,4 @@ public class CustomSuggesterClientYamlTestSuiteIT extends ESClientYamlSuiteTestC
         return ESClientYamlSuiteTestCase.createParameters();
     }
 }
+// Test

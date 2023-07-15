@@ -156,3 +156,4 @@ public abstract class GeoGridTestCase<B extends InternalGeoGridBucket, T extends
         assertThat(original, equalTo(original.create(original.buckets)));
     }
 }
+// Test

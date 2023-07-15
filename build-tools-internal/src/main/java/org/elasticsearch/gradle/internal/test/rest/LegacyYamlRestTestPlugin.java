@@ -74,3 +74,4 @@ public class LegacyYamlRestTestPlugin implements Plugin<Project> {
         GradleUtils.setupIdeForTestSourceSet(project, yamlTestSourceSet);
     }
 }
+// Test

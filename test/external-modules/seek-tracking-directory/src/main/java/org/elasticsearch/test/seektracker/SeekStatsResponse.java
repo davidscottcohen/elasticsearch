@@ -70,3 +70,4 @@ public class SeekStatsResponse extends BaseNodesResponse<NodeSeekStats> implemen
         return Strings.toString(this);
     }
 }
+// Test

@@ -31,3 +31,4 @@ public class MockInstallPluginCommand extends InstallPluginCommand {
     }
 
 }
+// Test

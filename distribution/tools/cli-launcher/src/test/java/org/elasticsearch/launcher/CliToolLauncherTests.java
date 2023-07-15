@@ -61,3 +61,4 @@ public class CliToolLauncherTests extends ESTestCase {
         assertThat(terminal.getErrorOutput(), containsString("at org.elasticsearch.launcher.CliToolLauncherTests.lambda"));
     }
 }
+// Test

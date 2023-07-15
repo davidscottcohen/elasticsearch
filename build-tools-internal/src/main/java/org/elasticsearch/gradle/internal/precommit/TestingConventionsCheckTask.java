@@ -253,3 +253,4 @@ public abstract class TestingConventionsCheckTask extends PrecommitTask {
         ListProperty<String> getBaseClassesNames();
     }
 }
+// Test

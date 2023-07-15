@@ -168,3 +168,4 @@ public class RetryHttpInitializerWrapperTests extends ESTestCase {
         assertThat(response.getStatusCode(), equalTo(200));
     }
 }
+// Test

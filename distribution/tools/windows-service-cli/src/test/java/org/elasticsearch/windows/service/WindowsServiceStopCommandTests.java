@@ -43,3 +43,4 @@ public class WindowsServiceStopCommandTests extends WindowsServiceCliTestCase {
         return "Failed stopping 'elasticsearch-service-x64' service";
     }
 }
+// Test

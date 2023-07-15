@@ -55,3 +55,4 @@ public class SuiteScopeClusterIT extends ESIntegTestCase {
         return super.buildTestCluster(scope, seed);
     }
 }
+// Test

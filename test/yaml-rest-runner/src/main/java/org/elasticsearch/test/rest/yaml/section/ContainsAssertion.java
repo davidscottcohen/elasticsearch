@@ -72,3 +72,4 @@ public class ContainsAssertion extends Assertion {
         }
     }
 }
+// Test

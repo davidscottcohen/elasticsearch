@@ -114,3 +114,4 @@ public class GceDiscoveryPlugin extends Plugin implements DiscoveryPlugin, Close
         IOUtils.close(gceInstancesService.get());
     }
 }
+// Test

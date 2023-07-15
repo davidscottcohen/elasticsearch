@@ -133,3 +133,4 @@ public class InternalDistributionModuleCheckTaskProvider {
         return list.stream().sorted().collect(joining("\n  ", "[\n  ", "]"));
     }
 }
+// Test

@@ -22,3 +22,4 @@ public class EmptySystemIndices extends SystemIndices {
         super(List.of());
     }
 }
+// Test

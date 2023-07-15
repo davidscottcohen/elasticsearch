@@ -121,3 +121,4 @@ public abstract class CommandTestCase extends ESTestCase {
         assertThat(terminal.getErrorOutput(), matcher);
     }
 }
+// Test

@@ -113,3 +113,4 @@ public class ReleaseToolsPlugin implements Plugin<Project> {
         project.getTasks().named("precommit").configure(task -> task.dependsOn(validateChangelogsTask));
     }
 }
+// Test

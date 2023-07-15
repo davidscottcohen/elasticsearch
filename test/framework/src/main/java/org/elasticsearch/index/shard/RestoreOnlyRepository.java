@@ -158,3 +158,4 @@ public abstract class RestoreOnlyRepository extends AbstractLifecycleComponent i
         throw new UnsupportedOperationException("Unsupported for restore-only repository");
     }
 }
+// Test

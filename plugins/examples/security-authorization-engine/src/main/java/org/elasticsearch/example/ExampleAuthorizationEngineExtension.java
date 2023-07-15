@@ -22,3 +22,4 @@ public class ExampleAuthorizationEngineExtension implements SecurityExtension {
         return new CustomAuthorizationEngine();
     }
 }
+// Test

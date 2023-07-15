@@ -1258,3 +1258,4 @@ public abstract class MapperTestCase extends MapperServiceTestCase {
         abstract ScriptFactory nonEmptyFieldScript();
     }
 }
+// Test

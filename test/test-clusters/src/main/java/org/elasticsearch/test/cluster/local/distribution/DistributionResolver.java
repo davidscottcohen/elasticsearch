@@ -14,3 +14,4 @@ public interface DistributionResolver {
 
     DistributionDescriptor resolve(Version version, DistributionType type);
 }
+// Test

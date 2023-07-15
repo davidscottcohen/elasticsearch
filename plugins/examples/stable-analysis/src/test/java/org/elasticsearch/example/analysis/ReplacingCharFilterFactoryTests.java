@@ -24,3 +24,4 @@ public class ReplacingCharFilterFactoryTests {
         assertThat(charFilterFactory.name(), equalTo("example_char_filter"));
     }
 }
+// Test

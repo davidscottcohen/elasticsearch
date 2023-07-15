@@ -53,3 +53,4 @@ public class WindowsServiceManagerCommandTests extends WindowsServiceCliTestCase
         return "Failed starting service manager for 'elasticsearch-service-x64'";
     }
 }
+// Test

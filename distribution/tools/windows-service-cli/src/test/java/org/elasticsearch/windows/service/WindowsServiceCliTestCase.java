@@ -227,3 +227,4 @@ public abstract class WindowsServiceCliTestCase extends CommandTestCase {
         assertOkWithOutput(containsString(getDefaultSuccessMessage()), emptyString());
     }
 }
+// Test

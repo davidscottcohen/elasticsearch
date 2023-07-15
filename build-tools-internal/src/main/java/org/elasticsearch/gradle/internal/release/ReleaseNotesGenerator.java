@@ -91,3 +91,4 @@ public class ReleaseNotesGenerator {
         return changelogsByTypeByArea;
     }
 }
+// Test

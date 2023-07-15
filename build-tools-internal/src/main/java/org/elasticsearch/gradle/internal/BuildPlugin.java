@@ -108,3 +108,4 @@ public class BuildPlugin implements Plugin<Project> {
         noticeFileProperty.convention(projectLayout.file(providerFactory.provider(() -> noticeFileDefault)));
     }
 }
+// Test

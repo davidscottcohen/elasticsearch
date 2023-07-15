@@ -193,3 +193,4 @@ public abstract class MapperScriptTestCase<FactoryType> extends MapperServiceTes
 
     protected abstract void assertIndexDisabled(List<IndexableField> fields);
 }
+// Test

@@ -132,3 +132,4 @@ public class PluginSecurity {
         return allPermissions.stream().map(PluginSecurity::formatPermission).collect(Collectors.toSet());
     }
 }
+// Test

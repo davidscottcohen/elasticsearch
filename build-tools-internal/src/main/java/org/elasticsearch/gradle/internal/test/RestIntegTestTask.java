@@ -18,3 +18,4 @@ import org.gradle.api.tasks.CacheableTask;
  */
 @CacheableTask
 public class RestIntegTestTask extends StandaloneRestIntegTestTask {}
+// Test

@@ -41,3 +41,4 @@ public class KuromojiPartOfSpeechFilterFactory extends AbstractTokenFilterFactor
     }
 
 }
+// Test

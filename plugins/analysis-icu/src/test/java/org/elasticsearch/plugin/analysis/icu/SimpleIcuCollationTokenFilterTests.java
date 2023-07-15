@@ -259,3 +259,4 @@ public class SimpleIcuCollationTokenFilterTests extends ESTestCase {
         stream2.close();
     }
 }
+// Test

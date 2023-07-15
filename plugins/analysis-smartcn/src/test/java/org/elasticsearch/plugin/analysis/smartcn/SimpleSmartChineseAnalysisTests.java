@@ -25,3 +25,4 @@ public class SimpleSmartChineseAnalysisTests extends ESTestCase {
         MatcherAssert.assertThat(tokenizerFactory, instanceOf(SmartChineseTokenizerTokenizerFactory.class));
     }
 }
+// Test

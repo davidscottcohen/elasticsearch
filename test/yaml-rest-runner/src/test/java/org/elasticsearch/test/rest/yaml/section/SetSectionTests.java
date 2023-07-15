@@ -44,3 +44,4 @@ public class SetSectionTests extends AbstractClientYamlTestFragmentParserTestCas
         assertThat(e.getMessage(), is("set section must set at least a value"));
     }
 }
+// Test

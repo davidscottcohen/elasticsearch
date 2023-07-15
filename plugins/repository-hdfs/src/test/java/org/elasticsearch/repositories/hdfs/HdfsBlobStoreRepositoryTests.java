@@ -49,3 +49,4 @@ public class HdfsBlobStoreRepositoryTests extends ESBlobStoreRepositoryIntegTest
         return Collections.singletonList(HdfsPlugin.class);
     }
 }
+// Test

@@ -43,3 +43,4 @@ public class WindowsServiceStartCommandTests extends WindowsServiceCliTestCase {
         return "Failed starting 'elasticsearch-service-x64' service";
     }
 }
+// Test

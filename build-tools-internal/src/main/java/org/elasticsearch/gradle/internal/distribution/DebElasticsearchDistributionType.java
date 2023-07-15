@@ -27,3 +27,4 @@ public class DebElasticsearchDistributionType implements ElasticsearchDistributi
     }
 
 }
+// Test

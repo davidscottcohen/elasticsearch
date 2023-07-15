@@ -151,3 +151,4 @@ public class ProcessReaper {
         return javaBase.endsWith("jre") && Files.exists(javaBase.getParent().resolve("bin/java")) ? javaBase.getParent() : javaBase;
     }
 }
+// Test

@@ -337,3 +337,4 @@ public class ObjectPathTests extends ESTestCase {
         assertThat(object, equalTo("test2"));
     }
 }
+// Test

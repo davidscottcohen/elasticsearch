@@ -171,3 +171,4 @@ public class AssertionTests extends AbstractClientYamlTestFragmentParserTestCase
         assertThat(exception.getMessage(), equalTo("value is missing or not a number"));
     }
 }
+// Test

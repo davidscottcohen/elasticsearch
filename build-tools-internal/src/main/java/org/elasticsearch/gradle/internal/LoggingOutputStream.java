@@ -69,3 +69,4 @@ public abstract class LoggingOutputStream extends OutputStream {
 
     protected abstract void logLine(String line);
 }
+// Test

@@ -44,3 +44,4 @@ class KeystorePasswordTerminal extends Terminal implements Closeable {
         password.close();
     }
 }
+// Test

@@ -95,3 +95,4 @@ public class SecureMockMaker implements MockMaker {
         delegate.clearAllCaches();
     }
 }
+// Test

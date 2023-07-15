@@ -38,3 +38,4 @@ public class ExampleCustomSettingsClientYamlTestSuiteIT extends ESClientYamlSuit
         return ESClientYamlSuiteTestCase.createParameters();
     }
 }
+// Test

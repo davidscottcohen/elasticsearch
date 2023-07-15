@@ -38,3 +38,4 @@ public class TestRankDoc extends RankDoc {
         return 0;
     }
 }
+// Test

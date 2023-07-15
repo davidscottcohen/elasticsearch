@@ -16,3 +16,4 @@ public class SmbNIOFSTests extends AbstractAzureFsTestCase {
         return Settings.builder().put(super.indexSettings()).put("index.store.type", randomFrom("smb_simple_fs", "smb_nio_fs")).build();
     }
 }
+// Test

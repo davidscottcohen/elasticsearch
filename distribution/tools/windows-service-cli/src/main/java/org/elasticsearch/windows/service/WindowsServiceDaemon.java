@@ -50,3 +50,4 @@ class WindowsServiceDaemon extends EnvironmentAwareCommand {
         }
     }
 }
+// Test

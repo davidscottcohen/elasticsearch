@@ -657,3 +657,4 @@ public abstract class BasePointShapeQueryTestCase<T extends AbstractGeometryQuer
         return false;
     }
 }
+// Test

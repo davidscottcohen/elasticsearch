@@ -117,3 +117,4 @@ public abstract class DateHistogramAggregatorTestCase extends AggregatorTestCase
         );
     }
 }
+// Test

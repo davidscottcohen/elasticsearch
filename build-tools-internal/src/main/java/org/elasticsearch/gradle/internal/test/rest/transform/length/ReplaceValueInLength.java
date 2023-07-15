@@ -41,3 +41,4 @@ public class ReplaceValueInLength extends ReplaceByKey {
         matchNode.set(getNewChildKey(), getReplacementNode());
     }
 }
+// Test

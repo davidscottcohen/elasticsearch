@@ -24,3 +24,4 @@ public class JavaUtil {
         return java.orElseThrow(() -> new GradleException("JAVA" + version + "_HOME required")).getJavaHome().get().getAbsolutePath();
     }
 }
+// Test

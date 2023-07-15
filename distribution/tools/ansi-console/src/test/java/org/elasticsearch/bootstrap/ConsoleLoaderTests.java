@@ -24,3 +24,4 @@ public class ConsoleLoaderTests extends ESTestCase {
         assertThat(supplier, instanceOf(AnsiConsoleLoader.class));
     }
 }
+// Test

@@ -307,3 +307,4 @@ public class ClientYamlSuiteRestApiTests extends ESTestCase {
         }
         """;
 }
+// Test

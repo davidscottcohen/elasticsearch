@@ -68,3 +68,4 @@ public class IngestDocumentMatcherTests extends ESTestCase {
         expectThrows(AssertionError.class, () -> assertIngestDocument(document2, document1));
     }
 }
+// Test

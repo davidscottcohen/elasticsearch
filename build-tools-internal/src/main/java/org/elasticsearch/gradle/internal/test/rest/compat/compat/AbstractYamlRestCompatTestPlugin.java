@@ -275,3 +275,4 @@ public abstract class AbstractYamlRestCompatTestPlugin implements Plugin<Project
         return checkoutDir.resolve(projectPath.replaceFirst(":", "").replace(":", File.separator));
     }
 }
+// Test

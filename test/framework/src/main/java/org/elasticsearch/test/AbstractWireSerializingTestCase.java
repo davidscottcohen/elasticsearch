@@ -33,3 +33,4 @@ public abstract class AbstractWireSerializingTestCase<T extends Writeable> exten
         return copyWriteable(instance, getNamedWriteableRegistry(), instanceReader(), version);
     }
 }
+// Test

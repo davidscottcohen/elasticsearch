@@ -112,3 +112,4 @@ public class InMemoryJavaCompilerTests extends ESTestCase {
         assertThat(e.getMessage(), containsString("Could not compile p.Foo with source code"));
     }
 }
+// Test

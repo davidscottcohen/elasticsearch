@@ -60,3 +60,4 @@ public class GceInstancesServiceImplTests extends ESTestCase {
         assertThat(service.getAppEngineValueFromMetadataServer(serviceURL), is("value"));
     }
 }
+// Test

@@ -38,3 +38,4 @@ public class AnnotatedTextFieldTypeTests extends FieldTypeTestCase {
         assertEquals(List.of("true"), fetchSourceValue(fieldType, true));
     }
 }
+// Test

@@ -222,3 +222,4 @@ public abstract class AbstractWireTestCase<T> extends ESTestCase {
         return new NamedWriteableRegistry(Collections.emptyList());
     }
 }
+// Test

@@ -50,3 +50,4 @@ public class IcuNormalizerCharFilterFactory extends AbstractCharFilterFactory im
     }
 
 }
+// Test

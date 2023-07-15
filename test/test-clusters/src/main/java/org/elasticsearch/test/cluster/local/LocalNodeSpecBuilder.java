@@ -15,3 +15,4 @@ public interface LocalNodeSpecBuilder extends LocalSpecBuilder<LocalNodeSpecBuil
      */
     LocalNodeSpecBuilder name(String name);
 }
+// Test

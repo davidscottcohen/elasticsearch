@@ -148,3 +148,4 @@ public class DieWithDignityIT extends ESRestTestCase {
     }
 
 }
+// Test

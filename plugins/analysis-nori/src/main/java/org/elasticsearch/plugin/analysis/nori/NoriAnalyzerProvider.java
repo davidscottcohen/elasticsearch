@@ -42,3 +42,4 @@ public class NoriAnalyzerProvider extends AbstractIndexAnalyzerProvider<KoreanAn
     }
 
 }
+// Test

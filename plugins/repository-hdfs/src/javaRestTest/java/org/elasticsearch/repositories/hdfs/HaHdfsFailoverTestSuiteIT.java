@@ -276,3 +276,4 @@ public class HaHdfsFailoverTestSuiteIT extends ESRestTestCase {
         }
     }
 }
+// Test

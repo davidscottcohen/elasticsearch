@@ -50,3 +50,4 @@ public class S3HttpFixtureWithECS extends S3HttpFixtureWithEC2 {
         fixture.start();
     }
 }
+// Test

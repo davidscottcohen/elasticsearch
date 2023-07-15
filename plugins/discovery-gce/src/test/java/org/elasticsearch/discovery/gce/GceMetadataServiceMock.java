@@ -33,3 +33,4 @@ public class GceMetadataServiceMock extends GceMetadataService {
         return this.mockHttpTransport;
     }
 }
+// Test

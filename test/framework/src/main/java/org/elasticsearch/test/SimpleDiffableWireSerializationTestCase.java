@@ -38,3 +38,4 @@ public abstract class SimpleDiffableWireSerializationTestCase<T extends Diffable
         );
     }
 }
+// Test

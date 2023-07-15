@@ -30,3 +30,4 @@ public class CharSkippingTokenizer extends CharTokenizer {
         return setOfChars.contains(c) == false;
     }
 }
+// Test

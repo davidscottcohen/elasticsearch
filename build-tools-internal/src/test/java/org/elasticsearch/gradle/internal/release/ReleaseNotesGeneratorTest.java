@@ -104,3 +104,4 @@ public class ReleaseNotesGeneratorTest {
         return Files.readString(Paths.get(Objects.requireNonNull(this.getClass().getResource(name)).toURI()), StandardCharsets.UTF_8);
     }
 }
+// Test

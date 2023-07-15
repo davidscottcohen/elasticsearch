@@ -28,3 +28,4 @@ public class PolishStemTokenFilterFactory extends AbstractTokenFilterFactory {
         return new StempelFilter(tokenStream, new StempelStemmer(PolishAnalyzer.getDefaultTable()));
     }
 }
+// Test

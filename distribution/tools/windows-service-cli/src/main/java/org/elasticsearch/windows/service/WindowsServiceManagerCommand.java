@@ -36,3 +36,4 @@ class WindowsServiceManagerCommand extends ProcrunCommand {
         return String.format(java.util.Locale.ROOT, "Failed starting service manager for '%s'", serviceId);
     }
 }
+// Test

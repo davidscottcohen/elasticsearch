@@ -25,3 +25,4 @@ public class StempelClientYamlTestSuiteIT extends ESClientYamlSuiteTestCase {
         return ESClientYamlSuiteTestCase.createParameters();
     }
 }
+// Test

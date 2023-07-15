@@ -406,3 +406,4 @@ public class GenerateReleaseNotesTask extends DefaultTask {
         this.migrationIndexFile.set(file);
     }
 }
+// Test

@@ -39,3 +39,4 @@ public class RestSeekStatsAction extends BaseRestHandler {
         return channel -> client.execute(SeekStatsAction.INSTANCE, seekStatsRequest, new RestToXContentListener<>(channel));
     }
 }
+// Test

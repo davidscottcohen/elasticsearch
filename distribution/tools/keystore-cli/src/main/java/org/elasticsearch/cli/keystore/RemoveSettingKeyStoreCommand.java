@@ -47,3 +47,4 @@ class RemoveSettingKeyStoreCommand extends BaseKeyStoreCommand {
         keyStore.save(env.configFile(), getKeyStorePassword().getChars());
     }
 }
+// Test

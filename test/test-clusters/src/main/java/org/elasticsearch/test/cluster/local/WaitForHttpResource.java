@@ -217,3 +217,4 @@ public class WaitForHttpResource {
         throw new IllegalStateException("Trust-store does not contain any trusted certificate entries");
     }
 }
+// Test

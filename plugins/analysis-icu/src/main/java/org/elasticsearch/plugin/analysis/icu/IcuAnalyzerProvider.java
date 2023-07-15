@@ -60,3 +60,4 @@ public class IcuAnalyzerProvider extends AbstractIndexAnalyzerProvider<Analyzer>
         };
     }
 }
+// Test

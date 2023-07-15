@@ -91,3 +91,4 @@ public class ListKeyStoreCommandTests extends KeyStoreCommandTestCase {
         assertThat(terminal.getOutput().lines().toList(), equalTo(List.of("foo", "keystore.seed")));
     }
 }
+// Test

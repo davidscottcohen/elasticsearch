@@ -75,3 +75,4 @@ public class CloseToAssertion extends Assertion {
         }
     }
 }
+// Test

@@ -321,3 +321,4 @@ public class AnnotatedTextHighlighterTests extends ESTestCase {
         );
     }
 }
+// Test

@@ -40,3 +40,4 @@ public class YamlRestCompatTestPlugin extends AbstractYamlRestCompatTestPlugin {
         return InternalYamlRestTestPlugin.class;
     }
 }
+// Test

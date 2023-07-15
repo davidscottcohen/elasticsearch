@@ -108,3 +108,4 @@ public class RemoveSettingKeyStoreCommandTests extends KeyStoreCommandTestCase {
         assertFalse(loadKeystore(password).getSettingNames().contains("foo"));
     }
 }
+// Test

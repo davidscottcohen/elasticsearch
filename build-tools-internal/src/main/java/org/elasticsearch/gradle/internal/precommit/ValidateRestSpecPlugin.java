@@ -47,3 +47,4 @@ public class ValidateRestSpecPlugin implements Plugin<Project> {
         project.getTasks().named("precommit").configure(t -> t.dependsOn(validateRestSpecTask, validateNoKeywordsTask));
     }
 }
+// Test

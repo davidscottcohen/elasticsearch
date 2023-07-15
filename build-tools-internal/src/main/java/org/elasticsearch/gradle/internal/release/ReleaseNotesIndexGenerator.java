@@ -51,3 +51,4 @@ public class ReleaseNotesIndexGenerator {
         return TemplateUtils.render(template, bindings);
     }
 }
+// Test

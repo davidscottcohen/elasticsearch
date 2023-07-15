@@ -116,3 +116,4 @@ public class PluginsConfigTests extends ESTestCase {
         config.validate(Set.of(), Set.of("repository-azure", "repository-gcs", "repository-s3"));
     }
 }
+// Test

@@ -51,3 +51,4 @@ public class IcuNormalizerTokenFilterFactory extends AbstractTokenFilterFactory 
         return normalizer;
     }
 }
+// Test

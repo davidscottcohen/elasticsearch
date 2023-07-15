@@ -232,3 +232,4 @@ public class RemovePluginAction {
         IOUtils.rm(pluginPaths.toArray(new Path[0]));
     }
 }
+// Test

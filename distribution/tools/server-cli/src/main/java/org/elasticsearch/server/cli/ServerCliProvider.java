@@ -22,3 +22,4 @@ public class ServerCliProvider implements CliToolProvider {
         return new ServerCli();
     }
 }
+// Test

@@ -103,3 +103,4 @@ public class SizeFieldMapper extends MetadataFieldMapper {
         return SourceLoader.SyntheticFieldLoader.NOTHING;
     }
 }
+// Test

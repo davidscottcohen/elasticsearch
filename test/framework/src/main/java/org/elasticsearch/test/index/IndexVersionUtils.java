@@ -118,3 +118,4 @@ public class IndexVersionUtils {
         return randomVersionBetween(random, IndexVersion.MINIMUM_COMPATIBLE, getPreviousVersion(version));
     }
 }
+// Test

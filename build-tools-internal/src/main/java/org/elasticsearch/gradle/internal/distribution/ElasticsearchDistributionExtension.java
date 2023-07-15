@@ -60,3 +60,4 @@ public class ElasticsearchDistributionExtension {
         });
     }
 }
+// Test

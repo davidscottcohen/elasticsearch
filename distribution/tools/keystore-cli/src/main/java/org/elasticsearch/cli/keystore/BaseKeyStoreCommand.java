@@ -87,3 +87,4 @@ public abstract class BaseKeyStoreCommand extends KeyStoreAwareCommand {
      */
     protected abstract void executeCommand(Terminal terminal, OptionSet options, Environment env) throws Exception;
 }
+// Test

@@ -289,3 +289,4 @@ public abstract class AbstractLocalSpecBuilder<T extends LocalSpecBuilder<?>> im
         return (T) o;
     }
 }
+// Test

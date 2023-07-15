@@ -39,3 +39,4 @@ public abstract class EsBaseDirectoryTestCase extends BaseDirectoryTestCase {
     protected final Logger logger = LogManager.getLogger(getClass());
 
 }
+// Test

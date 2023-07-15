@@ -227,3 +227,4 @@ public class ESLoggerUsageTests extends ESTestCase {
     }
 
 }
+// Test

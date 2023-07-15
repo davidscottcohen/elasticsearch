@@ -25,3 +25,4 @@ public class DelayedShardAggregationBuilderTests extends BaseAggregationTestCase
         return new DelayedShardAggregationBuilder(randomAlphaOfLength(10), TimeValue.timeValueMillis(100));
     }
 }
+// Test

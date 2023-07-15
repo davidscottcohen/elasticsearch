@@ -35,3 +35,4 @@ public class AnalysisNoriFactoryTests extends AnalysisFactoryTestCase {
         return filters;
     }
 }
+// Test

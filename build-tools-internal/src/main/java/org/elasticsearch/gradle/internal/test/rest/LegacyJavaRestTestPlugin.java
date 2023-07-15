@@ -46,3 +46,4 @@ public class LegacyJavaRestTestPlugin implements Plugin<Project> {
         GradleUtils.setupIdeForTestSourceSet(project, javaTestSourceSet);
     }
 }
+// Test

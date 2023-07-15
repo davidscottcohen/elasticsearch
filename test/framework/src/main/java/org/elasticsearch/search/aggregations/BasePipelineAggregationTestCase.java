@@ -242,3 +242,4 @@ public abstract class BasePipelineAggregationTestCase<AF extends AbstractPipelin
         return context.getValidationException() == null ? null : context.getValidationException().getMessage();
     }
 }
+// Test

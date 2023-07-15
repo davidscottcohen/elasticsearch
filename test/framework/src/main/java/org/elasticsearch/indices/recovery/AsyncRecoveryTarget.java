@@ -134,3 +134,4 @@ public class AsyncRecoveryTarget implements RecoveryTargetHandler {
         executor.execute(() -> target.restoreFileFromSnapshot(repository, indexId, snapshotFile, listener));
     }
 }
+// Test

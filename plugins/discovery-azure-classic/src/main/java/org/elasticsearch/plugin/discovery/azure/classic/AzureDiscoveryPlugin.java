@@ -81,3 +81,4 @@ public class AzureDiscoveryPlugin extends Plugin implements DiscoveryPlugin {
         );
     }
 }
+// Test

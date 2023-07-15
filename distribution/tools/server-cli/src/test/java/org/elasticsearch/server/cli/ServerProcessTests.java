@@ -418,3 +418,4 @@ public class ServerProcessTests extends ESTestCase {
         assertThat(exitCode, equalTo(-9));
     }
 }
+// Test

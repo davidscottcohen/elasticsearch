@@ -49,3 +49,4 @@ public class SimpleHeuristicWireTests extends AbstractXContentSerializingTestCas
         return null;
     }
 }
+// Test

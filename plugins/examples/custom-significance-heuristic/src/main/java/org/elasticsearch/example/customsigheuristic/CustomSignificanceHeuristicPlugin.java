@@ -25,3 +25,4 @@ public class CustomSignificanceHeuristicPlugin extends Plugin implements SearchP
         return singletonList(new SignificanceHeuristicSpec<>(SimpleHeuristic.NAME, SimpleHeuristic::new, SimpleHeuristic.PARSER));
     }
 }
+// Test

@@ -39,3 +39,4 @@ public class DisruptibleHeartbeatStore implements HeartbeatStore {
         disruptibleRegisterConnection.runDisruptedOrDrop(listener, delegate::readLatestHeartbeat);
     }
 }
+// Test

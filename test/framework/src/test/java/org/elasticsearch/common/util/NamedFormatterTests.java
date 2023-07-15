@@ -45,3 +45,4 @@ public class NamedFormatterTests extends ESTestCase {
         NamedFormatter.format("Hello, %(name)!", Map.of("foo", "world"));
     }
 }
+// Test

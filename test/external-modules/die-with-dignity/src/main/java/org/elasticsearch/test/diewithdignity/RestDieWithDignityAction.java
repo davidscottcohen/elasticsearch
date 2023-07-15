@@ -56,3 +56,4 @@ public class RestDieWithDignityAction extends BaseRestHandler {
     }
 
 }
+// Test

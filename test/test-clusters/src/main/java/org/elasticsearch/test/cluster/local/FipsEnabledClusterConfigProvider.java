@@ -45,3 +45,4 @@ public class FipsEnabledClusterConfigProvider implements LocalClusterConfigProvi
         return System.getProperty("java.vendor").toLowerCase().contains("oracle");
     }
 }
+// Test

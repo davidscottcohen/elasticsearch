@@ -25,3 +25,4 @@ public class ExampleRescoreClientYamlTestSuiteIT extends ESClientYamlSuiteTestCa
     }
 }
 
+// Test

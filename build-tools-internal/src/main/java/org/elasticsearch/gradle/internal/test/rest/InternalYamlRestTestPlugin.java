@@ -80,3 +80,4 @@ public class InternalYamlRestTestPlugin implements Plugin<Project> {
         GradleUtils.setupIdeForTestSourceSet(project, yamlTestSourceSet);
     }
 }
+// Test

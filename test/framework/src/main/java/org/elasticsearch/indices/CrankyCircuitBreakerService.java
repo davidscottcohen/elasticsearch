@@ -95,3 +95,4 @@ public class CrankyCircuitBreakerService extends CircuitBreakerService {
         return new CircuitBreakerStats(CircuitBreaker.FIELDDATA, -1, -1, 0, 0);
     }
 }
+// Test

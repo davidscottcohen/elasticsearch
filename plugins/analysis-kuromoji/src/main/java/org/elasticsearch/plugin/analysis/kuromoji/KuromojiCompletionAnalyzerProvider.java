@@ -32,3 +32,4 @@ public class KuromojiCompletionAnalyzerProvider extends AbstractIndexAnalyzerPro
         return analyzer;
     }
 }
+// Test

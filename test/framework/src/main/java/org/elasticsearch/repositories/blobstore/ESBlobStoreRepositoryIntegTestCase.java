@@ -536,3 +536,4 @@ public abstract class ESBlobStoreRepositoryIntegTestCase extends ESIntegTestCase
         return contentLength;
     }
 }
+// Test

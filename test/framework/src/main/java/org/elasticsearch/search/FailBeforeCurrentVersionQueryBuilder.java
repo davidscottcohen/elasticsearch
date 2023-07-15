@@ -52,3 +52,4 @@ public class FailBeforeCurrentVersionQueryBuilder extends DummyQueryBuilder {
         return new TransportVersion(FUTURE_VERSION);
     }
 }
+// Test

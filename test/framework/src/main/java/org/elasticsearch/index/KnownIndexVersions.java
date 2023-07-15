@@ -19,3 +19,4 @@ public class KnownIndexVersions {
      */
     public static final List<IndexVersion> ALL_VERSIONS = List.copyOf(IndexVersion.getAllVersions());
 }
+// Test

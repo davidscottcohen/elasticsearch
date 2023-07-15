@@ -33,3 +33,4 @@ public class AnalysisStempelPlugin extends Plugin implements AnalysisPlugin {
         return singletonMap("polish", PolishAnalyzerProvider::new);
     }
 }
+// Test

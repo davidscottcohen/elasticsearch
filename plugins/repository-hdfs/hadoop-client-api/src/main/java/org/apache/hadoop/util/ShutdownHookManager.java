@@ -45,3 +45,4 @@ public class ShutdownHookManager {
 
     public void clearShutdownHooks() {}
 }
+// Test

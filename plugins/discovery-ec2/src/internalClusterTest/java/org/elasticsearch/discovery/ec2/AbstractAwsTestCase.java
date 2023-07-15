@@ -60,3 +60,4 @@ public abstract class AbstractAwsTestCase extends ESIntegTestCase {
         return Arrays.asList(Ec2DiscoveryPlugin.class);
     }
 }
+// Test

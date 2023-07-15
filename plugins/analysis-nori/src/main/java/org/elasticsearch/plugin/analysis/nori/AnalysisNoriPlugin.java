@@ -41,3 +41,4 @@ public class AnalysisNoriPlugin extends Plugin implements AnalysisPlugin {
         return singletonMap("nori", NoriAnalyzerProvider::new);
     }
 }
+// Test

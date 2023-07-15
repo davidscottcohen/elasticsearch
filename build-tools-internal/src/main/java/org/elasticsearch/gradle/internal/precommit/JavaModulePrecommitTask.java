@@ -163,3 +163,4 @@ public class JavaModulePrecommitTask extends PrecommitTask {
             .orElseThrow(() -> new GradleException("module not found in " + filePath));
     }
 }
+// Test

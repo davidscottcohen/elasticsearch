@@ -74,3 +74,4 @@ public class LengthAssertion extends Assertion {
         return "field [" + getField() + "] doesn't have length [" + getExpectedValue() + "]";
     }
 }
+// Test

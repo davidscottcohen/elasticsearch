@@ -41,3 +41,4 @@ public class CheckedFunctionUtils {
         return any(CheckedSupplier.class);
     }
 }
+// Test

@@ -1600,3 +1600,4 @@ public class InstallPluginActionTests extends ESTestCase {
             """.replaceAll("[\n\r\s]", "");
     }
 }
+// Test

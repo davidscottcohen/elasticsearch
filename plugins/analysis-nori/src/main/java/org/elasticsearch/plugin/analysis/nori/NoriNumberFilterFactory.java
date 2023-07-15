@@ -26,3 +26,4 @@ public class NoriNumberFilterFactory extends AbstractTokenFilterFactory {
         return new KoreanNumberFilter(tokenStream);
     }
 }
+// Test

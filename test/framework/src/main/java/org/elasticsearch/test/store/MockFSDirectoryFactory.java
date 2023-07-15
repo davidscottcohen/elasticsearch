@@ -193,3 +193,4 @@ public class MockFSDirectoryFactory implements IndexStorePlugin.DirectoryFactory
         }
     }
 }
+// Test

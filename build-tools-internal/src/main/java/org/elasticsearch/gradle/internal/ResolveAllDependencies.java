@@ -68,3 +68,4 @@ public class ResolveAllDependencies extends DefaultTask {
             && configuration.getName().equals(BWC_MINOR_CONFIG_NAME) == false;
     }
 }
+// Test

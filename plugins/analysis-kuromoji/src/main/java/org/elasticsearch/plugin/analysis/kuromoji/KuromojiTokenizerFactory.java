@@ -110,3 +110,4 @@ public class KuromojiTokenizerFactory extends AbstractTokenizerFactory {
     }
 
 }
+// Test

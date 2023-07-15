@@ -40,3 +40,4 @@ public class AzureTwoStartedNodesTests extends AbstractAzureComputeServiceTestCa
         assertNumberOfNodes(2);
     }
 }
+// Test

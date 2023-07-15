@@ -246,3 +246,4 @@ public abstract class AbstractThirdPartyRepositoryTestCase extends ESSingleNodeT
         return (BlobStoreRepository) getInstanceFromNode(RepositoriesService.class).repository("test-repo");
     }
 }
+// Test

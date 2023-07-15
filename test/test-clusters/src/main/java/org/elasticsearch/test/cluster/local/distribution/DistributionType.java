@@ -22,3 +22,4 @@ public enum DistributionType {
         return systemProperty;
     }
 }
+// Test

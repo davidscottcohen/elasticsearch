@@ -19,3 +19,4 @@ public class ReplaceIsFalse extends ReplaceTextual {
         super("is_false", valueToBeReplaced, replacementNode, testName);
     }
 }
+// Test

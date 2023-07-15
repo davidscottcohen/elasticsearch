@@ -33,3 +33,4 @@ public class ReplacingCharFilterFactory implements CharFilterFactory {
 }
 
 
+// Test

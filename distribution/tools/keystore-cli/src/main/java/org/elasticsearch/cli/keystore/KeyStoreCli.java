@@ -28,3 +28,4 @@ class KeyStoreCli extends MultiCommand {
         subcommands.put("has-passwd", new HasPasswordKeyStoreCommand());
     }
 }
+// Test

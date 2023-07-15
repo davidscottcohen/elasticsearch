@@ -132,3 +132,4 @@ public class JdkDownloadPluginTests {
         return project;
     }
 }
+// Test

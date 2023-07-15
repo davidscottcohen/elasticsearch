@@ -66,3 +66,4 @@ public class SimpleIcuNormalizerCharFilterTests extends ESTestCase {
         assertEquals(expectedOutput, output.toString());
     }
 }
+// Test

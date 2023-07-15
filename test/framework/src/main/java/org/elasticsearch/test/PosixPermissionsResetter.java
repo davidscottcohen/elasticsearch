@@ -41,3 +41,4 @@ public class PosixPermissionsResetter implements AutoCloseable {
         return EnumSet.copyOf(permissions);
     }
 }
+// Test

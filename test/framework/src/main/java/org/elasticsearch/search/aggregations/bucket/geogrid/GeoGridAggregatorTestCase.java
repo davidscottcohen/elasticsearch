@@ -334,3 +334,4 @@ public abstract class GeoGridAggregatorTestCase<T extends InternalGeoGridBucket>
          */
     }
 }
+// Test

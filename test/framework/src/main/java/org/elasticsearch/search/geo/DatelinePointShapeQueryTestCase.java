@@ -157,3 +157,4 @@ public class DatelinePointShapeQueryTestCase {
         assertNotEquals("3", searchHits.getAt(1).getId());
     }
 }
+// Test

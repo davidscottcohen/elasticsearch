@@ -26,3 +26,4 @@ public class ErrorQueryPlugin extends Plugin implements SearchPlugin {
         return singletonList(new QuerySpec<>(ErrorQueryBuilder.NAME, ErrorQueryBuilder::new, p -> ErrorQueryBuilder.PARSER.parse(p, null)));
     }
 }
+// Test

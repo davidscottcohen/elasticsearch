@@ -24,3 +24,4 @@ public class ValidateYamlAgainstSchemaTask extends ValidateJsonAgainstSchemaTask
         return new ObjectMapper(new YAMLFactory());
     }
 }
+// Test

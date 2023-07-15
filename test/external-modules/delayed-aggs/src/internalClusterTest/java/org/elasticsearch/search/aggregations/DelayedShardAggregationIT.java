@@ -56,3 +56,4 @@ public class DelayedShardAggregationIT extends ESIntegTestCase {
         assertThat((float) max.getValue(), equalTo(expectedMax));
     }
 }
+// Test

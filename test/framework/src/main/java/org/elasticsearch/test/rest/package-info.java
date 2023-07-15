@@ -11,3 +11,4 @@
  * the rest of the package for mocking utilities.
  */
 package org.elasticsearch.test.rest;
+// Test

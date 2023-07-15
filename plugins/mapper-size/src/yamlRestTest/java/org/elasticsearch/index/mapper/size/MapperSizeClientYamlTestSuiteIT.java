@@ -35,3 +35,4 @@ public class MapperSizeClientYamlTestSuiteIT extends ESClientYamlSuiteTestCase {
         return cluster.getHttpAddresses();
     }
 }
+// Test

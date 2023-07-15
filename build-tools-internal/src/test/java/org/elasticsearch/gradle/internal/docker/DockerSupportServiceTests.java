@@ -96,3 +96,4 @@ public class DockerSupportServiceTests {
         assertThat("ol-6.10", equalTo(deriveId(osRelease)));
     }
 }
+// Test

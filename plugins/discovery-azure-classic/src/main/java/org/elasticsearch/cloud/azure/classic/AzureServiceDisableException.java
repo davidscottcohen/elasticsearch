@@ -14,3 +14,4 @@ public class AzureServiceDisableException extends IllegalStateException {
         super(msg, cause);
     }
 }
+// Test

@@ -97,3 +97,4 @@ public abstract class OracleOpenJdkToolchainResolver extends AbstractCustomJavaT
         return Architecture.AARCH64 != architecture || OperatingSystem.WINDOWS != operatingSystem;
     }
 }
+// Test

@@ -47,3 +47,4 @@ public class DependenciesInfoPlugin implements Plugin<Project> {
     }
 
 }
+// Test

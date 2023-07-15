@@ -41,3 +41,4 @@ public class TestRankShardResult implements RankShardResult {
         out.writeArray(testRankDocs);
     }
 }
+// Test

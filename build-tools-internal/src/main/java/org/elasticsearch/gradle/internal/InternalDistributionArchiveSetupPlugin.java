@@ -153,3 +153,4 @@ public class InternalDistributionArchiveSetupPlugin implements Plugin<Project> {
         return taskName.replaceAll("[A-Z]", "-$0").toLowerCase();
     }
 }
+// Test

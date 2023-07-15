@@ -33,3 +33,4 @@ public class ICUCollationKeywordFieldTypeTests extends FieldTypeTestCase {
         assertEquals(List.of("NULL"), fetchSourceValue(nullValueMapper.fieldType(), null));
     }
 }
+// Test

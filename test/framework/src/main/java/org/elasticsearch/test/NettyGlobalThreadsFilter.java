@@ -20,3 +20,4 @@ public class NettyGlobalThreadsFilter implements ThreadFilter {
         return t.getName().startsWith("globalEventExecutor");
     }
 }
+// Test

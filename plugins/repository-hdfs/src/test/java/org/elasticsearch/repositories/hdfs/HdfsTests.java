@@ -207,3 +207,4 @@ public class HdfsTests extends ESSingleNodeTestCase {
         return client.prepareSearch(index).setSize(0).get().getHits().getTotalHits().value;
     }
 }
+// Test

@@ -20,3 +20,4 @@ public class GraalVMThreadsFilter implements ThreadFilter {
         return t.getName().startsWith("Libgraal");
     }
 }
+// Test

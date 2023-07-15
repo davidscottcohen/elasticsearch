@@ -43,3 +43,4 @@ public class NoriPartOfSpeechStopFilterFactory extends AbstractTokenFilterFactor
         return stopTags;
     }
 }
+// Test

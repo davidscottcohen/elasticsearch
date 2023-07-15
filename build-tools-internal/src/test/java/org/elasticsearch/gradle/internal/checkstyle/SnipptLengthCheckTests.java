@@ -85,3 +85,4 @@ public class SnipptLengthCheckTests {
         return (line, message) -> collection.add(line + ": " + message);
     }
 }
+// Test

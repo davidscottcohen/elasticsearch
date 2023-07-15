@@ -42,3 +42,4 @@ public class SimpleUkrainianAnalyzerTests extends ESTestCase {
     }
 
 }
+// Test

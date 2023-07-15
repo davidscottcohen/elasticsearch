@@ -62,3 +62,4 @@ public abstract class ModuleTestCase extends ESTestCase {
         fail("Did not find any instance binding to " + to.getName() + ". Found these bindings:\n" + s);
     }
 }
+// Test

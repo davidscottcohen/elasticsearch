@@ -235,3 +235,4 @@ public class DependenciesInfoTask extends ConventionTask {
         return license.orElseThrow(() -> missingInfo(group, name, infoFileSuffix, " in " + dir));
     }
 }
+// Test

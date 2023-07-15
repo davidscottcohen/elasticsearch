@@ -234,3 +234,4 @@ public class InternalBwcGitPlugin implements Plugin<Project> {
         return output.lines().anyMatch(l -> l.contains(remote.get() + "\t"));
     }
 }
+// Test

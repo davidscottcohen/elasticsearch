@@ -68,3 +68,4 @@ public class TestWithDependenciesPlugin implements Plugin<Project> {
         sourceSetContainer.getByName("test").getOutput().dir(map, outputDir);
     }
 }
+// Test

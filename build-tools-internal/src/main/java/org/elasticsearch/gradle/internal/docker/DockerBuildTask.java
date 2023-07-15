@@ -246,3 +246,4 @@ public class DockerBuildTask extends DefaultTask {
         Property<String> getPlatform();
     }
 }
+// Test

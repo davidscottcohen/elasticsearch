@@ -43,3 +43,4 @@ public abstract class MockScriptPlugin extends Plugin implements ScriptPlugin {
         return NAME;
     }
 }
+// Test

@@ -115,3 +115,4 @@ public class TestWithSslPlugin implements Plugin<Project> {
             .configureEach(forbiddenPatternTask -> forbiddenPatternTask.exclude("**/*.crt", "**/*.key"));
     }
 }
+// Test

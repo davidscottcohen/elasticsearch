@@ -112,3 +112,4 @@ public class CreateKeyStoreCommandTests extends KeyStoreCommandTestCase {
         assertNotNull(KeyStoreWrapper.load(env.configFile()));
     }
 }
+// Test

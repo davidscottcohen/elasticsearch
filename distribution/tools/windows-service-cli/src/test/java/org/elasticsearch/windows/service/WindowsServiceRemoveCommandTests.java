@@ -43,3 +43,4 @@ public class WindowsServiceRemoveCommandTests extends WindowsServiceCliTestCase 
         return "Failed removing 'elasticsearch-service-x64' service";
     }
 }
+// Test

@@ -53,3 +53,4 @@ public class SnippetsTaskTests {
         assertEquals("snippet-name-1", source.getName());
     }
 }
+// Test

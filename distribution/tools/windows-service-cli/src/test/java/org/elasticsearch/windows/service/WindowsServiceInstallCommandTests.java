@@ -191,3 +191,4 @@ public class WindowsServiceInstallCommandTests extends WindowsServiceCliTestCase
         assertServiceArgs(Map.of("MyExtraArg", "\"and value\""));
     }
 }
+// Test

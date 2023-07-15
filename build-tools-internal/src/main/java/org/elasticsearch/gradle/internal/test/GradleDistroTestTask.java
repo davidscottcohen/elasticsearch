@@ -104,3 +104,4 @@ public class GradleDistroTestTask extends VagrantShellTask {
         return Collections.singletonList(line.toString());
     }
 }
+// Test

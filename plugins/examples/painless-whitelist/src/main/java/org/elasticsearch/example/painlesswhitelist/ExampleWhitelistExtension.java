@@ -43,3 +43,4 @@ public class ExampleWhitelistExtension implements PainlessExtension {
         return Collections.singletonMap(FieldScript.CONTEXT, Arrays.asList(classWhitelist, instanceWhitelist));
     }
 }
+// Test

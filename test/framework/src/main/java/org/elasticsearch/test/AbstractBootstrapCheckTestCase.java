@@ -32,3 +32,4 @@ public abstract class AbstractBootstrapCheckTestCase extends ESTestCase {
         return new BootstrapContext(environment, metadata);
     }
 }
+// Test

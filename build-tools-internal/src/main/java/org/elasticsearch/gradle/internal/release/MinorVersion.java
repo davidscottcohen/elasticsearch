@@ -45,3 +45,4 @@ public record MinorVersion(int major, int minor) implements Comparable<MinorVers
         return this.compareTo(other) < 0;
     }
 }
+// Test

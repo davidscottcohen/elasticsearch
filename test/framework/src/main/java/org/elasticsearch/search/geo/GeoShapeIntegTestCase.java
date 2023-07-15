@@ -103,3 +103,4 @@ public abstract class GeoShapeIntegTestCase extends BaseShapeIntegTestCase<GeoSh
         return SloppyMath.haversinMeters(lat1, lon1, lat2, lon2);
     }
 }
+// Test

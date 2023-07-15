@@ -97,3 +97,4 @@ public class InjectAllowedWarnings extends FeatureInjector implements RestTestTr
         return testName;
     }
 }
+// Test

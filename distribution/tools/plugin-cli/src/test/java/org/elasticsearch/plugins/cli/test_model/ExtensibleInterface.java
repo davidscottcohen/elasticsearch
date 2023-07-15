@@ -12,3 +12,4 @@ import org.elasticsearch.plugin.Extensible;
 
 @Extensible
 public interface ExtensibleInterface {}
+// Test

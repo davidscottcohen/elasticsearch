@@ -293,3 +293,4 @@ public class GceDiscoveryTests extends ESTestCase {
         assertEquals("10.240.79.60", dynamicHosts.get(1).getAddress());
     }
 }
+// Test

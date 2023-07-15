@@ -263,3 +263,4 @@ public class ErrorReportingTestListener implements TestOutputListener, TestListe
             .getOrDefault(ElasticsearchTestBasePlugin.DUMP_OUTPUT_ON_FAILURE_PROP_NAME, true);
     }
 }
+// Test

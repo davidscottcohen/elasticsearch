@@ -42,3 +42,4 @@ public class LegacyYamlRestCompatTestPlugin extends AbstractYamlRestCompatTestPl
         return LegacyYamlRestTestPlugin.class;
     }
 }
+// Test

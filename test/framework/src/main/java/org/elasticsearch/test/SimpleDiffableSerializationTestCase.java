@@ -41,3 +41,4 @@ public abstract class SimpleDiffableSerializationTestCase<T extends Diffable<T> 
         );
     }
 }
+// Test

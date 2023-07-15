@@ -43,3 +43,4 @@ public class SnapshotDistributionResolver implements DistributionResolver {
         return delegate.resolve(version, type);
     }
 }
+// Test

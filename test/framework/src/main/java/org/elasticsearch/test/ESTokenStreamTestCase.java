@@ -44,3 +44,4 @@ public abstract class ESTokenStreamTestCase extends BaseTokenStreamTestCase {
     }
 
 }
+// Test

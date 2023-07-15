@@ -52,3 +52,4 @@ public class IsFalseAssertion extends Assertion {
         return "field [" + getField() + "] has a true value but it shouldn't";
     }
 }
+// Test

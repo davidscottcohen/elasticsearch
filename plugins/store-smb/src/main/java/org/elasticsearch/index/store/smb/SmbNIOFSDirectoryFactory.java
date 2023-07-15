@@ -24,3 +24,4 @@ public final class SmbNIOFSDirectoryFactory extends FsDirectoryFactory {
         return new SmbDirectoryWrapper(new NIOFSDirectory(location, lockFactory));
     }
 }
+// Test

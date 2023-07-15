@@ -201,3 +201,4 @@ public class PruneChangelogsTaskTests {
         assertThat(versions, contains(QualifiedVersion.of("v7.0.0"), QualifiedVersion.of("v7.1.0")));
     }
 }
+// Test

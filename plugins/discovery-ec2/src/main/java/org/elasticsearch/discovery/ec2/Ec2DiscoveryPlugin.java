@@ -182,3 +182,4 @@ public class Ec2DiscoveryPlugin extends Plugin implements DiscoveryPlugin, Reloa
         ec2Service.refreshAndClearCache(clientSettings);
     }
 }
+// Test

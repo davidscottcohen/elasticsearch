@@ -24,3 +24,4 @@ public class DockerCloudEssElasticsearchDistributionType implements Elasticsearc
         return true;
     }
 }
+// Test
