@@ -106,3 +106,4 @@ public class SizeMappingTests extends MetadataMapperTestCase {
     }
 }
 // Test
+// Test2

@@ -41,3 +41,4 @@ public class YamlRestCompatTestPlugin extends AbstractYamlRestCompatTestPlugin {
     }
 }
 // Test
+// Test2

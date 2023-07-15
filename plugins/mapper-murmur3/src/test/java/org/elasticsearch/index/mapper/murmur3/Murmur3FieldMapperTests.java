@@ -147,3 +147,4 @@ public class Murmur3FieldMapperTests extends MapperTestCase {
     }
 }
 // Test
+// Test2

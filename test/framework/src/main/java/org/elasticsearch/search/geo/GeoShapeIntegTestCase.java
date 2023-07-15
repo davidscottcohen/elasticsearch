@@ -104,3 +104,4 @@ public abstract class GeoShapeIntegTestCase extends BaseShapeIntegTestCase<GeoSh
     }
 }
 // Test
+// Test2

@@ -59,3 +59,4 @@ public class PolishStopTokenFilterFactory extends AbstractTokenFilterFactory {
 
 }
 // Test
+// Test2

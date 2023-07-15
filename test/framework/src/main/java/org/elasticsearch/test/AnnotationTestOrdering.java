@@ -38,3 +38,4 @@ public class AnnotationTestOrdering implements Comparator<TestMethodAndParams> {
     }
 }
 // Test
+// Test2

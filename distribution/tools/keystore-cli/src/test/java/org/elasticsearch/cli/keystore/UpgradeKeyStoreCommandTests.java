@@ -72,3 +72,4 @@ public class UpgradeKeyStoreCommandTests extends KeyStoreCommandTestCase {
 
 }
 // Test
+// Test2

@@ -46,3 +46,4 @@ public class NamedFormatterTests extends ESTestCase {
     }
 }
 // Test
+// Test2

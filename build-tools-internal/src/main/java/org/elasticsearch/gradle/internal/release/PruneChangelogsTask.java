@@ -162,3 +162,4 @@ public class PruneChangelogsTask extends DefaultTask {
     }
 }
 // Test
+// Test2

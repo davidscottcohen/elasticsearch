@@ -48,3 +48,4 @@ public class ValidateRestSpecPlugin implements Plugin<Project> {
     }
 }
 // Test
+// Test2

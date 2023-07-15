@@ -69,3 +69,4 @@ public class ResolveAllDependencies extends DefaultTask {
     }
 }
 // Test
+// Test2

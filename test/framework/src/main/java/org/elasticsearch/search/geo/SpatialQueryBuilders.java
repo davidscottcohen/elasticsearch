@@ -146,3 +146,4 @@ public interface SpatialQueryBuilders<T extends AbstractGeometryQueryBuilder<T>>
     }
 }
 // Test
+// Test2

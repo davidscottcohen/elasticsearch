@@ -50,3 +50,4 @@ public class ExampleWhitelistAnnotationParser implements WhitelistAnnotationPars
     }
 }
 // Test
+// Test2

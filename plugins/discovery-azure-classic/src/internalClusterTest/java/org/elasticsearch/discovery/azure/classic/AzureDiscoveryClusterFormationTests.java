@@ -281,3 +281,4 @@ public class AzureDiscoveryClusterFormationTests extends ESIntegTestCase {
     }
 }
 // Test
+// Test2

@@ -48,3 +48,4 @@ class RemoveSettingKeyStoreCommand extends BaseKeyStoreCommand {
     }
 }
 // Test
+// Test2

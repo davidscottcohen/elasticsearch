@@ -246,3 +246,4 @@ public class ListPluginsCommandTests extends CommandTestCase {
     }
 }
 // Test
+// Test2

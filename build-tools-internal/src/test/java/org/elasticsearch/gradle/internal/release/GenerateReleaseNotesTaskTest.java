@@ -335,3 +335,4 @@ public class GenerateReleaseNotesTaskTest {
     }
 }
 // Test
+// Test2

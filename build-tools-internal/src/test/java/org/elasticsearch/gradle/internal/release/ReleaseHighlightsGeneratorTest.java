@@ -85,3 +85,4 @@ public class ReleaseHighlightsGeneratorTest {
     }
 }
 // Test
+// Test2

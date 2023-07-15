@@ -236,3 +236,4 @@ public class DependenciesInfoTask extends ConventionTask {
     }
 }
 // Test
+// Test2

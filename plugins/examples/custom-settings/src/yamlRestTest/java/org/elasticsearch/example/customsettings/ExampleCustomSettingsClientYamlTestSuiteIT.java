@@ -39,3 +39,4 @@ public class ExampleCustomSettingsClientYamlTestSuiteIT extends ESClientYamlSuit
     }
 }
 // Test
+// Test2

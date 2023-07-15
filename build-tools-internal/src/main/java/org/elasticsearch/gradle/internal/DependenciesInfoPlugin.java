@@ -48,3 +48,4 @@ public class DependenciesInfoPlugin implements Plugin<Project> {
 
 }
 // Test
+// Test2

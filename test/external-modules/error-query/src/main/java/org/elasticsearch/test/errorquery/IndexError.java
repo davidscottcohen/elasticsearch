@@ -132,3 +132,4 @@ public class IndexError implements Writeable, ToXContentFragment {
     }
 }
 // Test
+// Test2

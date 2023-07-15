@@ -546,3 +546,4 @@ public class AnnotatedTextFieldMapper extends FieldMapper {
     }
 }
 // Test
+// Test2

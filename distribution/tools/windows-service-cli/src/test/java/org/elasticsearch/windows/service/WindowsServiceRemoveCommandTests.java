@@ -44,3 +44,4 @@ public class WindowsServiceRemoveCommandTests extends WindowsServiceCliTestCase 
     }
 }
 // Test
+// Test2

@@ -26,3 +26,4 @@ public class PainlessWhitelistClientYamlTestSuiteIT extends ESClientYamlSuiteTes
 }
 
 // Test
+// Test2

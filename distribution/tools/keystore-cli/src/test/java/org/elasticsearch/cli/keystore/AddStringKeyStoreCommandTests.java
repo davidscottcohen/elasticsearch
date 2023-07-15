@@ -270,3 +270,4 @@ public class AddStringKeyStoreCommandTests extends KeyStoreCommandTestCase {
     }
 }
 // Test
+// Test2

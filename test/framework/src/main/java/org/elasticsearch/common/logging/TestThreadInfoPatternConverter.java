@@ -98,3 +98,4 @@ public class TestThreadInfoPatternConverter extends LogEventPatternConverter {
     }
 }
 // Test
+// Test2

@@ -56,3 +56,4 @@ class ProxyMatcher extends TypeSafeMatcher<Proxy> {
     }
 }
 // Test
+// Test2

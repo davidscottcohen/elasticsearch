@@ -104,3 +104,4 @@ public class SizeFieldMapper extends MetadataFieldMapper {
     }
 }
 // Test
+// Test2

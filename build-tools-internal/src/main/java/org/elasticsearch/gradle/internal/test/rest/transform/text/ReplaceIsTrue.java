@@ -16,3 +16,4 @@ public class ReplaceIsTrue extends ReplaceTextual {
     }
 }
 // Test
+// Test2

@@ -12,3 +12,4 @@ import org.gradle.api.services.BuildServiceParameters;
 
 public abstract class DockerComposeThrottle implements BuildService<BuildServiceParameters.None> {}
 // Test
+// Test2

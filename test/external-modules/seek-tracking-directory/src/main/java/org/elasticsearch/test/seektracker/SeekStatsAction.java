@@ -20,3 +20,4 @@ public class SeekStatsAction extends ActionType<SeekStatsResponse> {
     }
 }
 // Test
+// Test2

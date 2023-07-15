@@ -26,3 +26,4 @@ public class AmazonEC2DiscoveryClientYamlTestSuiteIT extends ESClientYamlSuiteTe
     }
 }
 // Test
+// Test2

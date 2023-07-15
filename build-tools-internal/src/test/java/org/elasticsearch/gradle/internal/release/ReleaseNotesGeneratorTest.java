@@ -105,3 +105,4 @@ public class ReleaseNotesGeneratorTest {
     }
 }
 // Test
+// Test2

@@ -26,3 +26,4 @@ public class AnalysisUkrainianPlugin extends Plugin implements AnalysisPlugin {
     }
 }
 // Test
+// Test2

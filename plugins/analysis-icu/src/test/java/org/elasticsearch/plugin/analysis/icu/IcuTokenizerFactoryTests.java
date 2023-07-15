@@ -106,3 +106,4 @@ public class IcuTokenizerFactoryTests extends ESTestCase {
     }
 }
 // Test
+// Test2

@@ -30,3 +30,4 @@ public class SmartChineseAnalyzerProvider extends AbstractIndexAnalyzerProvider<
     }
 }
 // Test
+// Test2

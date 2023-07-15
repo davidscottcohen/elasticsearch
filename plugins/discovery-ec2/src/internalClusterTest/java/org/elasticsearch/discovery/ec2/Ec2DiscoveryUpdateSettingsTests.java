@@ -40,3 +40,4 @@ public class Ec2DiscoveryUpdateSettingsTests extends AbstractAwsTestCase {
     }
 }
 // Test
+// Test2

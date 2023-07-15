@@ -182,3 +182,4 @@ public abstract class AbstractQueryVectorBuilderTestCase<T extends QueryVectorBu
     }
 }
 // Test
+// Test2

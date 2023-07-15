@@ -32,3 +32,4 @@ public class CharacterSkippingTokenizerFactory implements TokenizerFactory {
 }
 
 // Test
+// Test2

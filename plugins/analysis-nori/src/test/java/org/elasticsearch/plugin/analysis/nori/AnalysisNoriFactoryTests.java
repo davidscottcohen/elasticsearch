@@ -36,3 +36,4 @@ public class AnalysisNoriFactoryTests extends AnalysisFactoryTestCase {
     }
 }
 // Test
+// Test2

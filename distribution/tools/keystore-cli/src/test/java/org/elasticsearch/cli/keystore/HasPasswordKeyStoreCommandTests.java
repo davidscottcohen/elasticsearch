@@ -58,3 +58,4 @@ public class HasPasswordKeyStoreCommandTests extends KeyStoreCommandTestCase {
     }
 }
 // Test
+// Test2

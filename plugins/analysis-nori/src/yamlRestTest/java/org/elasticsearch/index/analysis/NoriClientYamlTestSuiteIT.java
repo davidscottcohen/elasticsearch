@@ -26,3 +26,4 @@ public class NoriClientYamlTestSuiteIT extends ESClientYamlSuiteTestCase {
     }
 }
 // Test
+// Test2

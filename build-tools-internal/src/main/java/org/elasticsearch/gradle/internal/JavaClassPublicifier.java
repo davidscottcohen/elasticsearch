@@ -116,3 +116,4 @@ public class JavaClassPublicifier extends DefaultTask {
     }
 }
 // Test
+// Test2

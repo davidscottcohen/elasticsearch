@@ -60,3 +60,4 @@ public class ErrorQueryBuilderTests extends AbstractQueryTestCase<ErrorQueryBuil
     }
 }
 // Test
+// Test2

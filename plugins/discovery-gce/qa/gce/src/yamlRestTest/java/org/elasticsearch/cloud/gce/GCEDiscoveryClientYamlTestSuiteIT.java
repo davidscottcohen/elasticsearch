@@ -26,3 +26,4 @@ public class GCEDiscoveryClientYamlTestSuiteIT extends ESClientYamlSuiteTestCase
     }
 }
 // Test
+// Test2

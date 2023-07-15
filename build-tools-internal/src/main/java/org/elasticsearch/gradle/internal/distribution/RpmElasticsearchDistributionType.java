@@ -30,3 +30,4 @@ public class RpmElasticsearchDistributionType implements ElasticsearchDistributi
     }
 }
 // Test
+// Test2

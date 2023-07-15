@@ -27,3 +27,4 @@ public class AnalysisSmartChineseFactoryTests extends AnalysisFactoryTestCase {
 
 }
 // Test
+// Test2

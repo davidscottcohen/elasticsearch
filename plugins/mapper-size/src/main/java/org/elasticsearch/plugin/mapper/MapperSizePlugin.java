@@ -24,3 +24,4 @@ public class MapperSizePlugin extends Plugin implements MapperPlugin {
     }
 }
 // Test
+// Test2

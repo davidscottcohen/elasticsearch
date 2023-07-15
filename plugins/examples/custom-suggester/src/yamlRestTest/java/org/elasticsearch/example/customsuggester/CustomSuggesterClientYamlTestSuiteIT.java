@@ -25,3 +25,4 @@ public class CustomSuggesterClientYamlTestSuiteIT extends ESClientYamlSuiteTestC
     }
 }
 // Test
+// Test2

@@ -87,3 +87,4 @@ public class S3HttpFixtureWithEC2 extends S3HttpFixtureWithSessionToken {
     }
 }
 // Test
+// Test2

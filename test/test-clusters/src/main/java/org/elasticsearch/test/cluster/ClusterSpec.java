@@ -10,3 +10,4 @@ package org.elasticsearch.test.cluster;
 
 public interface ClusterSpec {}
 // Test
+// Test2

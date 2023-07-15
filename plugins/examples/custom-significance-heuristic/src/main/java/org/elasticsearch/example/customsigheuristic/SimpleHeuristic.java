@@ -78,3 +78,4 @@ public class SimpleHeuristic extends SignificanceHeuristic {
     }
 }
 // Test
+// Test2

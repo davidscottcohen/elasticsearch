@@ -276,3 +276,4 @@ public abstract class AbstractYamlRestCompatTestPlugin implements Plugin<Project
     }
 }
 // Test
+// Test2

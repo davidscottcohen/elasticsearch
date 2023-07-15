@@ -110,3 +110,4 @@ public abstract class LoggerUsageTask extends PrecommitTask {
 
 }
 // Test
+// Test2

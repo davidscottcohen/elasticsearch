@@ -183,3 +183,4 @@ public class Ec2DiscoveryPlugin extends Plugin implements DiscoveryPlugin, Reloa
     }
 }
 // Test
+// Test2

@@ -98,3 +98,4 @@ public abstract class OracleOpenJdkToolchainResolver extends AbstractCustomJavaT
     }
 }
 // Test
+// Test2

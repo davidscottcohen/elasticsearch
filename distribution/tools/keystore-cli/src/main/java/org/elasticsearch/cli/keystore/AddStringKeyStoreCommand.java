@@ -104,3 +104,4 @@ class AddStringKeyStoreCommand extends BaseKeyStoreCommand {
 
 }
 // Test
+// Test2

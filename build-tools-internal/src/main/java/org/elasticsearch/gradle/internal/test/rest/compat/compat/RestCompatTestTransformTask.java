@@ -512,3 +512,4 @@ public class RestCompatTestTransformTask extends DefaultTask {
     }
 }
 // Test
+// Test2

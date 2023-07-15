@@ -35,3 +35,4 @@ public class JavaModulePrecommitPlugin extends PrecommitPlugin {
     }
 }
 // Test
+// Test2

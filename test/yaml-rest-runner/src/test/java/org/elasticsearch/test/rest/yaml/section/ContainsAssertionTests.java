@@ -21,3 +21,4 @@ public class ContainsAssertionTests extends ESTestCase {
     }
 }
 // Test
+// Test2

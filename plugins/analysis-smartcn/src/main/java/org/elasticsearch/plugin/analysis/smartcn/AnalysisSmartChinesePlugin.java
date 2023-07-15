@@ -46,3 +46,4 @@ public class AnalysisSmartChinesePlugin extends Plugin implements AnalysisPlugin
     }
 }
 // Test
+// Test2

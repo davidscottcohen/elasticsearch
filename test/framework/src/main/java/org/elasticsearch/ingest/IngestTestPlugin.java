@@ -32,3 +32,4 @@ public class IngestTestPlugin extends Plugin implements IngestPlugin {
     }
 }
 // Test
+// Test2

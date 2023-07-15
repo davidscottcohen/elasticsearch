@@ -66,3 +66,4 @@ public class JapaneseStopTokenFilterFactory extends AbstractTokenFilterFactory {
 
 }
 // Test
+// Test2

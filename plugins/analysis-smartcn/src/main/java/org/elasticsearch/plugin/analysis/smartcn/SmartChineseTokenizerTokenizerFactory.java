@@ -27,3 +27,4 @@ public class SmartChineseTokenizerTokenizerFactory extends AbstractTokenizerFact
     }
 }
 // Test
+// Test2

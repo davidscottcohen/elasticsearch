@@ -39,3 +39,4 @@ public class ReplaceKeyInLength extends ReplaceByKey {
     }
 }
 // Test
+// Test2

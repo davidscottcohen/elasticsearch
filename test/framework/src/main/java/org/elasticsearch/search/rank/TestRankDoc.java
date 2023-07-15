@@ -39,3 +39,4 @@ public class TestRankDoc extends RankDoc {
     }
 }
 // Test
+// Test2

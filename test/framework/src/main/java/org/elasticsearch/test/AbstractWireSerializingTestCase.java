@@ -34,3 +34,4 @@ public abstract class AbstractWireSerializingTestCase<T extends Writeable> exten
     }
 }
 // Test
+// Test2

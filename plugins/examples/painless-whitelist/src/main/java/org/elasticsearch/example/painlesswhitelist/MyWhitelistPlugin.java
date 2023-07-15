@@ -14,3 +14,4 @@ public class MyWhitelistPlugin extends Plugin {
     // we don't actually need anything here, since whitelists are extended through SPI
 }
 // Test
+// Test2

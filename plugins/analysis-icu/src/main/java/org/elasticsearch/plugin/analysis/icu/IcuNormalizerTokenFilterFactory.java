@@ -52,3 +52,4 @@ public class IcuNormalizerTokenFilterFactory extends AbstractTokenFilterFactory 
     }
 }
 // Test
+// Test2

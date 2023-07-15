@@ -128,3 +128,4 @@ public class BaseInternalPluginBuildPlugin implements Plugin<Project> {
     }
 }
 // Test
+// Test2

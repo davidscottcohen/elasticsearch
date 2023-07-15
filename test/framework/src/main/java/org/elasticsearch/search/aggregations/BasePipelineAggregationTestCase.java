@@ -243,3 +243,4 @@ public abstract class BasePipelineAggregationTestCase<AF extends AbstractPipelin
     }
 }
 // Test
+// Test2

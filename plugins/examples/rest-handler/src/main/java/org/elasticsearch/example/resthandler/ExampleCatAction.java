@@ -72,3 +72,4 @@ public class ExampleCatAction extends AbstractCatAction {
     }
 }
 // Test
+// Test2

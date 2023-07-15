@@ -103,3 +103,4 @@ public class ConcatFilesTask extends DefaultTask {
 
 }
 // Test
+// Test2

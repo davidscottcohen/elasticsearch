@@ -71,3 +71,4 @@ public class SeekStatsResponse extends BaseNodesResponse<NodeSeekStats> implemen
     }
 }
 // Test
+// Test2

@@ -222,3 +222,4 @@ public class ExampleRescoreBuilder extends RescorerBuilder<ExampleRescoreBuilder
     }
 }
 // Test
+// Test2

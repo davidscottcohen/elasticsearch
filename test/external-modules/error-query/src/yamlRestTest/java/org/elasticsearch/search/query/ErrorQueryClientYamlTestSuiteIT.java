@@ -25,3 +25,4 @@ public class ErrorQueryClientYamlTestSuiteIT extends ESClientYamlSuiteTestCase {
     }
 }
 // Test
+// Test2

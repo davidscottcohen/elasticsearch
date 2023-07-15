@@ -25,3 +25,4 @@ public class ValidateYamlAgainstSchemaTask extends ValidateJsonAgainstSchemaTask
     }
 }
 // Test
+// Test2

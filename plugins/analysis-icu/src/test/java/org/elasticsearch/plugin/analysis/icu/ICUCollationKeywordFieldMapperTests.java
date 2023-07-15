@@ -319,3 +319,4 @@ public class ICUCollationKeywordFieldMapperTests extends MapperTestCase {
     }
 }
 // Test
+// Test2

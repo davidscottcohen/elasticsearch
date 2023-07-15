@@ -47,3 +47,4 @@ public class LegacyJavaRestTestPlugin implements Plugin<Project> {
     }
 }
 // Test
+// Test2

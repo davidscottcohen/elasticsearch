@@ -24,3 +24,4 @@ public class MapperMurmur3Plugin extends Plugin implements MapperPlugin {
     }
 }
 // Test
+// Test2

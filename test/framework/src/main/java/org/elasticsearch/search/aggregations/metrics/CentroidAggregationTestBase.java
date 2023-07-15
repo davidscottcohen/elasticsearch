@@ -161,3 +161,4 @@ public abstract class CentroidAggregationTestBase extends AbstractGeoTestCase {
     }
 }
 // Test
+// Test2

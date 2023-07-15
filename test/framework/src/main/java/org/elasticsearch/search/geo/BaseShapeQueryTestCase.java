@@ -705,3 +705,4 @@ public abstract class BaseShapeQueryTestCase<T extends AbstractGeometryQueryBuil
     protected abstract Polygon nextPolygon2();
 }
 // Test
+// Test2

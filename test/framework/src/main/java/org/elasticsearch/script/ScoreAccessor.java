@@ -55,3 +55,4 @@ public final class ScoreAccessor extends Number {
     }
 }
 // Test
+// Test2

@@ -30,3 +30,4 @@ class StringResource implements Resource {
 
 }
 // Test
+// Test2

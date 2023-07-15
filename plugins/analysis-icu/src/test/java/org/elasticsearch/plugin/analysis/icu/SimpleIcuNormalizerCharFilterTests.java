@@ -67,3 +67,4 @@ public class SimpleIcuNormalizerCharFilterTests extends ESTestCase {
     }
 }
 // Test
+// Test2

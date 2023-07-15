@@ -488,3 +488,4 @@ public abstract class BaseShapeIntegTestCase<T extends AbstractGeometryQueryBuil
     }
 }
 // Test
+// Test2

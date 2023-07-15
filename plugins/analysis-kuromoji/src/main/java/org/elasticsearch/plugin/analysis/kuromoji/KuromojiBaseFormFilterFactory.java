@@ -27,3 +27,4 @@ public class KuromojiBaseFormFilterFactory extends AbstractTokenFilterFactory {
     }
 }
 // Test
+// Test2

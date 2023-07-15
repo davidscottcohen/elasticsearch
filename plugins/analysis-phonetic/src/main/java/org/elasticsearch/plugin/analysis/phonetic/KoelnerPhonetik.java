@@ -283,3 +283,4 @@ public class KoelnerPhonetik implements StringEncoder {
     }
 }
 // Test
+// Test2

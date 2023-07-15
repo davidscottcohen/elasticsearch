@@ -56,3 +56,4 @@ public class SuiteScopeClusterIT extends ESIntegTestCase {
     }
 }
 // Test
+// Test2

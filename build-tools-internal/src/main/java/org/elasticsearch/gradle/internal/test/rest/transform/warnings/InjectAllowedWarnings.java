@@ -98,3 +98,4 @@ public class InjectAllowedWarnings extends FeatureInjector implements RestTestTr
     }
 }
 // Test
+// Test2

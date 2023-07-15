@@ -219,3 +219,4 @@ public class NoriAnalysisTests extends ESTokenStreamTestCase {
     }
 }
 // Test
+// Test2

@@ -140,3 +140,4 @@ public class ElasticsearchJavaPlugin implements Plugin<Project> {
     }
 }
 // Test
+// Test2

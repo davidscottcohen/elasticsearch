@@ -41,3 +41,4 @@ abstract class AbstractCustomJavaToolchainResolver implements JavaToolchainResol
     }
 }
 // Test
+// Test2

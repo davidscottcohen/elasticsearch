@@ -382,3 +382,4 @@ public abstract class GeoDistanceQueryBuilderTestCase extends AbstractQueryTestC
     }
 }
 // Test
+// Test2

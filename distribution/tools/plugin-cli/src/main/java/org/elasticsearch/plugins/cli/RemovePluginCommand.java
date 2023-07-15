@@ -44,3 +44,4 @@ class RemovePluginCommand extends EnvironmentAwareCommand {
     }
 }
 // Test
+// Test2

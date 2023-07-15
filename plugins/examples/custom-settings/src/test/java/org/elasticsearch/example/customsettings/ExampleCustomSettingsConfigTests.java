@@ -32,3 +32,4 @@ public class ExampleCustomSettingsConfigTests extends ESTestCase {
     }
 }
 // Test
+// Test2

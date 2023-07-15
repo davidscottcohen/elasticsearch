@@ -167,3 +167,4 @@ public class IcuCollationTokenFilterFactory extends AbstractTokenFilterFactory {
     }
 }
 // Test
+// Test2

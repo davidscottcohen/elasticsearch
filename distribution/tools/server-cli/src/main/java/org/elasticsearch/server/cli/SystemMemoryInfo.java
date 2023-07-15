@@ -23,3 +23,4 @@ public interface SystemMemoryInfo {
     long availableSystemMemory();
 }
 // Test
+// Test2

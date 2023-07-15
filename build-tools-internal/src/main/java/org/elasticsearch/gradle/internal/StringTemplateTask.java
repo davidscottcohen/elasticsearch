@@ -126,3 +126,4 @@ public abstract class StringTemplateTask extends DefaultTask {
     }
 }
 // Test
+// Test2

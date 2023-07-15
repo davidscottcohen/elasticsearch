@@ -249,3 +249,4 @@ public class AmazonEC2Fixture extends AbstractHttpFixture {
     }
 }
 // Test
+// Test2

@@ -64,3 +64,4 @@ public class DummyQueryParserPlugin extends Plugin implements SearchPlugin {
     }
 }
 // Test
+// Test2

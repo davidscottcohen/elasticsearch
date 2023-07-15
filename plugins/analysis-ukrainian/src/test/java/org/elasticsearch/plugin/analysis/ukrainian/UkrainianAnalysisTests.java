@@ -29,3 +29,4 @@ public class UkrainianAnalysisTests extends ESTestCase {
     }
 }
 // Test
+// Test2

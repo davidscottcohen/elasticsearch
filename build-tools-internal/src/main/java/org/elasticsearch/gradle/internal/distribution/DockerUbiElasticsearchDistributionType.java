@@ -25,3 +25,4 @@ public class DockerUbiElasticsearchDistributionType implements ElasticsearchDist
     }
 }
 // Test
+// Test2

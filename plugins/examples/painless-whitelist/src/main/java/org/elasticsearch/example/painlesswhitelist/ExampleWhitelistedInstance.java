@@ -24,3 +24,4 @@ public class ExampleWhitelistedInstance {
     }
 }
 // Test
+// Test2

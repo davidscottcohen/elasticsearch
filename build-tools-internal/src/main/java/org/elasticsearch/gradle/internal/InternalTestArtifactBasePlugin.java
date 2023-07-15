@@ -29,3 +29,4 @@ public class InternalTestArtifactBasePlugin implements Plugin<Project> {
     }
 }
 // Test
+// Test2

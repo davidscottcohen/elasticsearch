@@ -39,3 +39,4 @@ public class ExampleRestHandlerClientYamlTestSuiteIT extends ESClientYamlSuiteTe
     }
 }
 // Test
+// Test2

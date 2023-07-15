@@ -91,3 +91,4 @@ public class InjectWarningsRegexTests extends InjectFeatureTests {
     }
 }
 // Test
+// Test2

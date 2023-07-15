@@ -44,3 +44,4 @@ public class WindowsServiceStartCommandTests extends WindowsServiceCliTestCase {
     }
 }
 // Test
+// Test2

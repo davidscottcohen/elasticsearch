@@ -30,3 +30,4 @@ public class SkipStartingWithDigitTokenFilter extends FilteringTokenFilter {
     }
 }
 // Test
+// Test2

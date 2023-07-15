@@ -127,3 +127,4 @@ public abstract class JsonLogsIntegTestCase extends ESRestTestCase {
     }
 }
 // Test
+// Test2

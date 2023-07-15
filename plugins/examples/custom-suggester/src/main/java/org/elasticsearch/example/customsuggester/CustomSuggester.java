@@ -56,3 +56,4 @@ public class CustomSuggester extends Suggester<CustomSuggestionContext> {
     }
 }
 // Test
+// Test2

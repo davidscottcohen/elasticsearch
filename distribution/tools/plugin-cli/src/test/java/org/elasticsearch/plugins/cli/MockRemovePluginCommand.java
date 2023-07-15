@@ -26,3 +26,4 @@ public class MockRemovePluginCommand extends RemovePluginCommand {
     }
 }
 // Test
+// Test2

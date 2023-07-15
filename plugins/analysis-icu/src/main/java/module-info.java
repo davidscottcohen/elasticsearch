@@ -17,3 +17,4 @@ module org.elasticsearch.analysis.icu {
     // exports nothing
 }
 // Test
+// Test2

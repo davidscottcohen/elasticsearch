@@ -26,3 +26,4 @@ public class PhoneticClientYamlTestSuiteIT extends ESClientYamlSuiteTestCase {
     }
 }
 // Test
+// Test2

@@ -54,3 +54,4 @@ public class StandaloneTestPlugin implements Plugin<Project> {
     }
 }
 // Test
+// Test2

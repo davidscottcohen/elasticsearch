@@ -26,3 +26,4 @@ public class MyFilterTokenFilterFactory extends AbstractTokenFilterFactory {
     }
 }
 // Test
+// Test2

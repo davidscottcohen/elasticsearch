@@ -161,3 +161,4 @@ public class CollationFieldTypeTests extends FieldTypeTestCase {
     }
 }
 // Test
+// Test2

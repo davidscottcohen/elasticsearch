@@ -69,3 +69,4 @@ public class TestWithDependenciesPlugin implements Plugin<Project> {
     }
 }
 // Test
+// Test2

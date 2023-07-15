@@ -151,3 +151,4 @@ public class SizeMappingIT extends ESIntegTestCase {
     }
 }
 // Test
+// Test2

@@ -48,3 +48,4 @@ public abstract class MockDeterministicScript implements Function<Map<String, Ob
     }
 }
 // Test
+// Test2

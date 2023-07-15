@@ -103,3 +103,4 @@ public abstract class TestCustomMetadata extends AbstractNamedDiffable<Metadata.
     }
 }
 // Test
+// Test2

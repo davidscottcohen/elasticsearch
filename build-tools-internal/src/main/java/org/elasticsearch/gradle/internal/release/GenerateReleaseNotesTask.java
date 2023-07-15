@@ -407,3 +407,4 @@ public class GenerateReleaseNotesTask extends DefaultTask {
     }
 }
 // Test
+// Test2

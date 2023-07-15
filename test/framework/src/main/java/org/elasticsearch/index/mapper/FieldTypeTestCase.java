@@ -91,3 +91,4 @@ public abstract class FieldTypeTestCase extends ESTestCase {
     }
 }
 // Test
+// Test2

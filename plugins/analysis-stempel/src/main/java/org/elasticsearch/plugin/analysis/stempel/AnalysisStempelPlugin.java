@@ -34,3 +34,4 @@ public class AnalysisStempelPlugin extends Plugin implements AnalysisPlugin {
     }
 }
 // Test
+// Test2

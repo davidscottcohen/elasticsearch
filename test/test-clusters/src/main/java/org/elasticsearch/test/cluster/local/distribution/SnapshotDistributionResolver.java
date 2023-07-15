@@ -44,3 +44,4 @@ public class SnapshotDistributionResolver implements DistributionResolver {
     }
 }
 // Test
+// Test2

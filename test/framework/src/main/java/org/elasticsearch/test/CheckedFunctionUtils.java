@@ -42,3 +42,4 @@ public class CheckedFunctionUtils {
     }
 }
 // Test
+// Test2

@@ -63,3 +63,4 @@ public interface ExampleAnalysisSettings {
     List<String> singleCharsToSkipInTokenizer();
 }
 // Test
+// Test2

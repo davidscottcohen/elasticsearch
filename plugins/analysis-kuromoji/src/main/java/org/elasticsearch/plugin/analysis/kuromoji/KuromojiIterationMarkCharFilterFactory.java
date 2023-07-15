@@ -35,3 +35,4 @@ public class KuromojiIterationMarkCharFilterFactory extends AbstractCharFilterFa
 
 }
 // Test
+// Test2

@@ -71,3 +71,4 @@ public class DummyQueryBuilder extends AbstractQueryBuilder<DummyQueryBuilder> {
     }
 }
 // Test
+// Test2

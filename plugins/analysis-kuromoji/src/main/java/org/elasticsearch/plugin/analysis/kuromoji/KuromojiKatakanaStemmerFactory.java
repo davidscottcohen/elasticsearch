@@ -30,3 +30,4 @@ public class KuromojiKatakanaStemmerFactory extends AbstractTokenFilterFactory {
     }
 }
 // Test
+// Test2

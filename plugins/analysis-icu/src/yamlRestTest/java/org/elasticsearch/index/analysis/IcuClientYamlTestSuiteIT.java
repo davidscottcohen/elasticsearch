@@ -26,3 +26,4 @@ public class IcuClientYamlTestSuiteIT extends ESClientYamlSuiteTestCase {
     }
 }
 // Test
+// Test2

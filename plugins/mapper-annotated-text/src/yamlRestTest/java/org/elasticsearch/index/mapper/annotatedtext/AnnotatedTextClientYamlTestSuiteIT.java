@@ -26,3 +26,4 @@ public class AnnotatedTextClientYamlTestSuiteIT extends ESClientYamlSuiteTestCas
     }
 }
 // Test
+// Test2

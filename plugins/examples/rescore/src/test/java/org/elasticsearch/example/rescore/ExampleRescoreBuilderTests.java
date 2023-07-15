@@ -69,3 +69,4 @@ public class ExampleRescoreBuilderTests extends AbstractWireSerializingTestCase<
     }
 }
 // Test
+// Test2

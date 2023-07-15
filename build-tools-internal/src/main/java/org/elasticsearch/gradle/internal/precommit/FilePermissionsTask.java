@@ -114,3 +114,4 @@ public abstract class FilePermissionsTask extends DefaultTask {
     public abstract ListProperty<FileTree> getSources();
 }
 // Test
+// Test2

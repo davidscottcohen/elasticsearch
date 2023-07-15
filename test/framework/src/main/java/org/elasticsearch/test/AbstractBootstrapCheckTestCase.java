@@ -33,3 +33,4 @@ public abstract class AbstractBootstrapCheckTestCase extends ESTestCase {
     }
 }
 // Test
+// Test2

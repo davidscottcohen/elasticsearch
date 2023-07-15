@@ -53,3 +53,4 @@ public class FailBeforeCurrentVersionQueryBuilder extends DummyQueryBuilder {
     }
 }
 // Test
+// Test2

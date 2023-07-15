@@ -211,3 +211,4 @@ public abstract class GeoShapeQueryTestCase extends BaseShapeQueryTestCase<GeoSh
     }
 }
 // Test
+// Test2

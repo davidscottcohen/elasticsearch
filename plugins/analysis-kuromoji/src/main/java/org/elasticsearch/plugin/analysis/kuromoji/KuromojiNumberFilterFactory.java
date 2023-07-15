@@ -26,3 +26,4 @@ public class KuromojiNumberFilterFactory extends AbstractTokenFilterFactory {
     }
 }
 // Test
+// Test2

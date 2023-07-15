@@ -258,3 +258,4 @@ public class IndexableBinaryStringToolsTests extends LuceneTestCase {
     }
 }
 // Test
+// Test2

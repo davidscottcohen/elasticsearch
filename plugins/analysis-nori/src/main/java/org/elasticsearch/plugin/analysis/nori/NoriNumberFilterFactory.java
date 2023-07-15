@@ -27,3 +27,4 @@ public class NoriNumberFilterFactory extends AbstractTokenFilterFactory {
     }
 }
 // Test
+// Test2

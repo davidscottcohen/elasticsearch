@@ -489,3 +489,4 @@ public class ICUCollationKeywordFieldMapperIT extends ESIntegTestCase {
     }
 }
 // Test
+// Test2

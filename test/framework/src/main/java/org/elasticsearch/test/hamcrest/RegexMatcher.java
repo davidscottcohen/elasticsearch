@@ -50,3 +50,4 @@ public class RegexMatcher extends TypeSafeMatcher<String> {
     }
 }
 // Test
+// Test2

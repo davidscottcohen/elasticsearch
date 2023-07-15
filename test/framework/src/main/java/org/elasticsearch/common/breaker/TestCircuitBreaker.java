@@ -34,3 +34,4 @@ public class TestCircuitBreaker extends NoopCircuitBreaker {
     }
 }
 // Test
+// Test2

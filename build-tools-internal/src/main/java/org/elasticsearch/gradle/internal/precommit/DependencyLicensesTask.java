@@ -309,3 +309,4 @@ public class DependencyLicensesTask extends DefaultTask {
 
 }
 // Test
+// Test2

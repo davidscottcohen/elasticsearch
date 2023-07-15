@@ -604,3 +604,4 @@ public class AnnotatedTextFieldMapperTests extends MapperTestCase {
     }
 }
 // Test
+// Test2

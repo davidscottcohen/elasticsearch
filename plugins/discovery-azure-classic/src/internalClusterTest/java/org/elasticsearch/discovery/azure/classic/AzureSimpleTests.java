@@ -55,3 +55,4 @@ public class AzureSimpleTests extends AbstractAzureComputeServiceTestCase {
     }
 }
 // Test
+// Test2

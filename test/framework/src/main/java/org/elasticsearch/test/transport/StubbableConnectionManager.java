@@ -136,3 +136,4 @@ public class StubbableConnectionManager implements ConnectionManager {
     }
 }
 // Test
+// Test2

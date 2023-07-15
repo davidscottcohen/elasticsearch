@@ -50,3 +50,4 @@ public final class FakeRestChannel extends AbstractRestChannel {
     }
 }
 // Test
+// Test2

@@ -39,3 +39,4 @@ public class AnnotatedTextFieldTypeTests extends FieldTypeTestCase {
     }
 }
 // Test
+// Test2

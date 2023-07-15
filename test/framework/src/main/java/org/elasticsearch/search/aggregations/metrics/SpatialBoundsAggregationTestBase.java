@@ -208,3 +208,4 @@ public abstract class SpatialBoundsAggregationTestBase<T extends SpatialPoint> e
     }
 }
 // Test
+// Test2

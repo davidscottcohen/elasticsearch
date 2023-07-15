@@ -158,3 +158,4 @@ public class TransformLog4jConfigFilterTests {
     }
 }
 // Test
+// Test2

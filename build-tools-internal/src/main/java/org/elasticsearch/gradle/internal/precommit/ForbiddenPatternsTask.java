@@ -181,3 +181,4 @@ public abstract class ForbiddenPatternsTask extends DefaultTask {
 
 }
 // Test
+// Test2

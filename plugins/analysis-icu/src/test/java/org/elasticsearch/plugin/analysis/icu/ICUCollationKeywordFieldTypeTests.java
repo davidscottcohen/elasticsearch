@@ -34,3 +34,4 @@ public class ICUCollationKeywordFieldTypeTests extends FieldTypeTestCase {
     }
 }
 // Test
+// Test2

@@ -30,3 +30,4 @@ public class AnnotatedTextPlugin extends Plugin implements MapperPlugin, SearchP
     }
 }
 // Test
+// Test2

@@ -39,3 +39,4 @@ public class ExampleRestHandlerPlugin extends Plugin implements ActionPlugin {
     }
 }
 // Test
+// Test2

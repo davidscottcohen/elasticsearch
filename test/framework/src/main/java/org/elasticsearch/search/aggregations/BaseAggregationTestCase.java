@@ -237,3 +237,4 @@ public abstract class BaseAggregationTestCase<AB extends AbstractAggregationBuil
     }
 }
 // Test
+// Test2

@@ -26,3 +26,4 @@ public class UkrainianClientYamlTestSuiteIT extends ESClientYamlSuiteTestCase {
     }
 }
 // Test
+// Test2

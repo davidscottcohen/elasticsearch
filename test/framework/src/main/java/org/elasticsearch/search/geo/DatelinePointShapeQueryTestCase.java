@@ -158,3 +158,4 @@ public class DatelinePointShapeQueryTestCase {
     }
 }
 // Test
+// Test2

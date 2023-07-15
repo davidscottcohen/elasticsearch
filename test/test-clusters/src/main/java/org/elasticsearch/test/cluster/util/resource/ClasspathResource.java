@@ -52,3 +52,4 @@ class ClasspathResource implements Resource {
     }
 }
 // Test
+// Test2

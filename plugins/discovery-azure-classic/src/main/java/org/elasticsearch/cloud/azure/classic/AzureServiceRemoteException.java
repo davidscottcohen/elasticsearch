@@ -15,3 +15,4 @@ public class AzureServiceRemoteException extends IllegalStateException {
     }
 }
 // Test
+// Test2

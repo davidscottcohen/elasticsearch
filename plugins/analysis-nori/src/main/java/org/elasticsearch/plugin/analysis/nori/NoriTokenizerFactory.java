@@ -78,3 +78,4 @@ public class NoriTokenizerFactory extends AbstractTokenizerFactory {
 
 }
 // Test
+// Test2

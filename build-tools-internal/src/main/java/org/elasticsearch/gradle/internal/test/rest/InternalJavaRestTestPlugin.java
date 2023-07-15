@@ -58,3 +58,4 @@ public class InternalJavaRestTestPlugin implements Plugin<Project> {
     }
 }
 // Test
+// Test2

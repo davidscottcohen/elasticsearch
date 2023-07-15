@@ -70,3 +70,4 @@ public abstract class AbstractTermsTestCase extends ESIntegTestCase {
 
 }
 // Test
+// Test2

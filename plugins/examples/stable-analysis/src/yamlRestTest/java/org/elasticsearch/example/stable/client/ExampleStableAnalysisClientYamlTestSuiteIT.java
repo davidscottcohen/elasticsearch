@@ -27,3 +27,4 @@ public class ExampleStableAnalysisClientYamlTestSuiteIT extends ESClientYamlSuit
     }
 }
 // Test
+// Test2

@@ -52,3 +52,4 @@ public class ReleaseNotesIndexGenerator {
     }
 }
 // Test
+// Test2

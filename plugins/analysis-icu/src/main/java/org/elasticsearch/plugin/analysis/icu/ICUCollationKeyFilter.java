@@ -108,3 +108,4 @@ public final class ICUCollationKeyFilter extends TokenFilter {
     }
 }
 // Test
+// Test2

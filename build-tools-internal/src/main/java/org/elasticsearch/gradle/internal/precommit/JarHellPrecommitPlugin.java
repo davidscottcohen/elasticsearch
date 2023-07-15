@@ -34,3 +34,4 @@ public class JarHellPrecommitPlugin extends PrecommitPlugin {
     }
 }
 // Test
+// Test2

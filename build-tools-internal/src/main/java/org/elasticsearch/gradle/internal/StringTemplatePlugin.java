@@ -33,3 +33,4 @@ public class StringTemplatePlugin implements Plugin<Project> {
     }
 }
 // Test
+// Test2

@@ -44,3 +44,4 @@ public class ExampleWhitelistExtension implements PainlessExtension {
     }
 }
 // Test
+// Test2

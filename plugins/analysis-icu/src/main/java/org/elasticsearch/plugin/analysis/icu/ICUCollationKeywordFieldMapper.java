@@ -547,3 +547,4 @@ public class ICUCollationKeywordFieldMapper extends FieldMapper {
 
 }
 // Test
+// Test2

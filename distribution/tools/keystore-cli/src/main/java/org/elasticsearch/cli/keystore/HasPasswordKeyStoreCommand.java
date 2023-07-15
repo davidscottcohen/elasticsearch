@@ -49,3 +49,4 @@ public class HasPasswordKeyStoreCommand extends KeyStoreAwareCommand {
     }
 }
 // Test
+// Test2

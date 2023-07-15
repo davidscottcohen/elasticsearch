@@ -46,3 +46,4 @@ public record MinorVersion(int major, int minor) implements Comparable<MinorVers
     }
 }
 // Test
+// Test2

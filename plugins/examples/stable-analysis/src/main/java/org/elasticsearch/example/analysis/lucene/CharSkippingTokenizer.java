@@ -31,3 +31,4 @@ public class CharSkippingTokenizer extends CharTokenizer {
     }
 }
 // Test
+// Test2

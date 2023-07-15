@@ -26,3 +26,4 @@ public class SmartChineseNoOpTokenFilterFactory extends AbstractTokenFilterFacto
     }
 }
 // Test
+// Test2

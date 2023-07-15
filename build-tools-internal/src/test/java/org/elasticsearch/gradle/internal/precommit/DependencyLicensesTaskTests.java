@@ -254,3 +254,4 @@ public class DependencyLicensesTaskTests {
     }
 }
 // Test
+// Test2

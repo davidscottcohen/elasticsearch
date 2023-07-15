@@ -23,3 +23,4 @@ public class ExampleRescorePlugin extends Plugin implements SearchPlugin {
     }
 }
 // Test
+// Test2

@@ -82,3 +82,4 @@ public class InjectHeaders extends FeatureInjector implements RestTestTransformB
     }
 }
 // Test
+// Test2

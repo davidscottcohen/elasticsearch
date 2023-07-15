@@ -24,3 +24,4 @@ import java.lang.annotation.RetentionPolicy;
 public @interface Network {
 }
 // Test
+// Test2

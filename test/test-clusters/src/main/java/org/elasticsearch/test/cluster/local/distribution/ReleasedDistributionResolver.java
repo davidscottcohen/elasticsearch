@@ -53,3 +53,4 @@ public class ReleasedDistributionResolver implements DistributionResolver {
     }
 }
 // Test
+// Test2

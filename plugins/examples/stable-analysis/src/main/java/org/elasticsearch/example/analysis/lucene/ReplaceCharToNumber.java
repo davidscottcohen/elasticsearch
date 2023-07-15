@@ -26,3 +26,4 @@ public class ReplaceCharToNumber extends MappingCharFilter {
     }
 }
 // Test
+// Test2

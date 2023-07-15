@@ -26,3 +26,4 @@ class SecureObjectInstantiator implements Instantiator {
     }
 }
 // Test
+// Test2

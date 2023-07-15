@@ -118,3 +118,4 @@ public class EC2RetriesTests extends AbstractEC2MockAPITestCase {
     }
 }
 // Test
+// Test2

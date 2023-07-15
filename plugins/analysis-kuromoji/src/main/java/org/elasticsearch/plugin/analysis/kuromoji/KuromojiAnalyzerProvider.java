@@ -39,3 +39,4 @@ public class KuromojiAnalyzerProvider extends AbstractIndexAnalyzerProvider<Japa
 
 }
 // Test
+// Test2

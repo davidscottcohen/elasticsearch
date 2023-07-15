@@ -55,3 +55,4 @@ public class AnalysisKuromojiPlugin extends Plugin implements AnalysisPlugin {
     }
 }
 // Test
+// Test2

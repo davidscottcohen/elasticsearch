@@ -69,3 +69,4 @@ public class InjectAllowedWarningsRegexTests extends InjectFeatureTests {
     }
 }
 // Test
+// Test2

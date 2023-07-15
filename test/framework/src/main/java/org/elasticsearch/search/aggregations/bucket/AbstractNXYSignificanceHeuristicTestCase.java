@@ -38,3 +38,4 @@ public abstract class AbstractNXYSignificanceHeuristicTestCase extends AbstractS
 
 }
 // Test
+// Test2

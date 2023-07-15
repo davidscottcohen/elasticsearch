@@ -40,3 +40,4 @@ public abstract class EsBaseDirectoryTestCase extends BaseDirectoryTestCase {
 
 }
 // Test
+// Test2

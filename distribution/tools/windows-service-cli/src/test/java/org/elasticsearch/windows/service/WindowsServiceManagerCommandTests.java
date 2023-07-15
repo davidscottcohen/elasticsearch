@@ -54,3 +54,4 @@ public class WindowsServiceManagerCommandTests extends WindowsServiceCliTestCase
     }
 }
 // Test
+// Test2

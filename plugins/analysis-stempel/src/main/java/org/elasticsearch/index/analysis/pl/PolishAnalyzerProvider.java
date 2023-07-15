@@ -30,3 +30,4 @@ public class PolishAnalyzerProvider extends AbstractIndexAnalyzerProvider<Polish
     }
 }
 // Test
+// Test2

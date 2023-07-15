@@ -26,3 +26,4 @@ public class DiscoveryAzureClassicClientYamlTestSuiteIT extends ESClientYamlSuit
     }
 }
 // Test
+// Test2

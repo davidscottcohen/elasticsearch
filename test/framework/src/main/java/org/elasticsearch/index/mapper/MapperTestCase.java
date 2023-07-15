@@ -1259,3 +1259,4 @@ public abstract class MapperTestCase extends MapperServiceTestCase {
     }
 }
 // Test
+// Test2

@@ -26,3 +26,4 @@ public class KuromojiClientYamlTestSuiteIT extends ESClientYamlSuiteTestCase {
     }
 }
 // Test
+// Test2

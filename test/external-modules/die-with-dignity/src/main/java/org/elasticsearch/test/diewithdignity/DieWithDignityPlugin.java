@@ -40,3 +40,4 @@ public class DieWithDignityPlugin extends Plugin implements ActionPlugin {
 
 }
 // Test
+// Test2

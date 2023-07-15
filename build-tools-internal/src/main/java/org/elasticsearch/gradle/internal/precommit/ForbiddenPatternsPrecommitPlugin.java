@@ -49,3 +49,4 @@ public class ForbiddenPatternsPrecommitPlugin extends PrecommitPlugin {
     }
 }
 // Test
+// Test2

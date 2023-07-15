@@ -48,3 +48,4 @@ public class AmazonEc2Reference extends AbstractRefCounted implements Releasable
 
 }
 // Test
+// Test2

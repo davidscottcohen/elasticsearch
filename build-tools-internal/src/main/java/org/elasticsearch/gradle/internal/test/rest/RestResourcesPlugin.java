@@ -181,3 +181,4 @@ public class RestResourcesPlugin implements Plugin<Project> {
     }
 }
 // Test
+// Test2

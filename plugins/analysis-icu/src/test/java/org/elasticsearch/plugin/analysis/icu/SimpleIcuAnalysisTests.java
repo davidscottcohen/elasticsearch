@@ -43,3 +43,4 @@ public class SimpleIcuAnalysisTests extends ESTestCase {
     }
 }
 // Test
+// Test2

@@ -445,3 +445,4 @@ public class KuromojiAnalysisTests extends ESTestCase {
     }
 }
 // Test
+// Test2

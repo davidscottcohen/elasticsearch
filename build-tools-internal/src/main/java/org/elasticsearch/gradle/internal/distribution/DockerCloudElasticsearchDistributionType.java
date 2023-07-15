@@ -25,3 +25,4 @@ public class DockerCloudElasticsearchDistributionType implements ElasticsearchDi
     }
 }
 // Test
+// Test2

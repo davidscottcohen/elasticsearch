@@ -22,3 +22,4 @@ public interface DistributionDescriptor {
     DistributionType getType();
 }
 // Test
+// Test2

@@ -247,3 +247,4 @@ public class DockerBuildTask extends DefaultTask {
     }
 }
 // Test
+// Test2

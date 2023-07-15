@@ -55,3 +55,4 @@ public class VagrantProgressLogger implements UnaryOperator<String> {
     }
 }
 // Test
+// Test2

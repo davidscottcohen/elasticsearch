@@ -26,3 +26,4 @@ public class SimpleSmartChineseAnalysisTests extends ESTestCase {
     }
 }
 // Test
+// Test2

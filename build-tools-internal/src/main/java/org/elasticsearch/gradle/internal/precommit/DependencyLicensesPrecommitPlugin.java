@@ -41,3 +41,4 @@ public class DependencyLicensesPrecommitPlugin extends PrecommitPlugin {
     }
 }
 // Test
+// Test2

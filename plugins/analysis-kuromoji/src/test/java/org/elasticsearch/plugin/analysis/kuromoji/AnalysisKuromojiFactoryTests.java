@@ -45,3 +45,4 @@ public class AnalysisKuromojiFactoryTests extends AnalysisFactoryTestCase {
     }
 }
 // Test
+// Test2

@@ -24,3 +24,4 @@ public class DummyShardLock extends ShardLock {
     protected void closeInternal() {}
 }
 // Test
+// Test2

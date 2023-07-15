@@ -239,3 +239,4 @@ public class ElasticsearchAssertionsTests extends ESTestCase {
     }
 }
 // Test
+// Test2

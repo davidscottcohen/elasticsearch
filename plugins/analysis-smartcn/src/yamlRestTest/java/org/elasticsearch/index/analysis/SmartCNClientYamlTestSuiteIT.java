@@ -26,3 +26,4 @@ public class SmartCNClientYamlTestSuiteIT extends ESClientYamlSuiteTestCase {
     }
 }
 // Test
+// Test2

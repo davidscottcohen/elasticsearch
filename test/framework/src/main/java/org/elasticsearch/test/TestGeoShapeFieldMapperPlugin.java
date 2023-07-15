@@ -33,3 +33,4 @@ public class TestGeoShapeFieldMapperPlugin extends Plugin implements MapperPlugi
     }
 }
 // Test
+// Test2

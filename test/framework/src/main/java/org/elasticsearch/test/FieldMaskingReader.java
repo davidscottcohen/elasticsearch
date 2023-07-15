@@ -58,3 +58,4 @@ public class FieldMaskingReader extends FilterDirectoryReader {
     }
 }
 // Test
+// Test2

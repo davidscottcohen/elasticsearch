@@ -44,3 +44,4 @@ public class NoriPartOfSpeechStopFilterFactory extends AbstractTokenFilterFactor
     }
 }
 // Test
+// Test2

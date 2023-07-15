@@ -234,3 +234,4 @@ public final class IndexableBinaryStringTools {
     }
 }
 // Test
+// Test2

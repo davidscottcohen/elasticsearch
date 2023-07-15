@@ -95,3 +95,4 @@ public class RemoveWarningsTests extends TransformTests {
     }
 }
 // Test
+// Test2

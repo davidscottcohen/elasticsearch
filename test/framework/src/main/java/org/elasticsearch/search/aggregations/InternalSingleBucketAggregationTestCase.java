@@ -151,3 +151,4 @@ public abstract class InternalSingleBucketAggregationTestCase<T extends Internal
     protected abstract Class<? extends ParsedSingleBucketAggregation> implementationClass();
 }
 // Test
+// Test2

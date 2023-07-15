@@ -35,3 +35,4 @@ public class UkrainianAnalyzerProvider extends AbstractIndexAnalyzerProvider<Ukr
 
 }
 // Test
+// Test2

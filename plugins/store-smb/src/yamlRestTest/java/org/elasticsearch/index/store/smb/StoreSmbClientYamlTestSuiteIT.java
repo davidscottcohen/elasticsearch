@@ -26,3 +26,4 @@ public class StoreSmbClientYamlTestSuiteIT extends ESClientYamlSuiteTestCase {
     }
 }
 // Test
+// Test2

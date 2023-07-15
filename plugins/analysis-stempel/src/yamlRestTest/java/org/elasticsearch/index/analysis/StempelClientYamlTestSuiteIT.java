@@ -26,3 +26,4 @@ public class StempelClientYamlTestSuiteIT extends ESClientYamlSuiteTestCase {
     }
 }
 // Test
+// Test2

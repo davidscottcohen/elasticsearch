@@ -42,3 +42,4 @@ public class AnalysisNoriPlugin extends Plugin implements AnalysisPlugin {
     }
 }
 // Test
+// Test2

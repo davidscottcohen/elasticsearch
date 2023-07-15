@@ -41,3 +41,4 @@ public class AzureTwoStartedNodesTests extends AbstractAzureComputeServiceTestCa
     }
 }
 // Test
+// Test2

@@ -200,3 +200,4 @@ public class CustomSuggestion extends Suggest.Suggestion<CustomSuggestion.Entry>
     }
 }
 // Test
+// Test2

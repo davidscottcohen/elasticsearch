@@ -260,3 +260,4 @@ public class SimpleIcuCollationTokenFilterTests extends ESTestCase {
     }
 }
 // Test
+// Test2

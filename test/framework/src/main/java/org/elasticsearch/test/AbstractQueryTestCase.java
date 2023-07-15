@@ -887,3 +887,4 @@ public abstract class AbstractQueryTestCase<QB extends AbstractQueryBuilder<QB>>
     }
 }
 // Test
+// Test2

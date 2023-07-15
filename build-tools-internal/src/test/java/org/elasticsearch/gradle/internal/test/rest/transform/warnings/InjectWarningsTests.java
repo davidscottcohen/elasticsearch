@@ -90,3 +90,4 @@ public class InjectWarningsTests extends InjectFeatureTests {
     }
 }
 // Test
+// Test2

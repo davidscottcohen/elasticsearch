@@ -109,3 +109,4 @@ public class RemoveSettingKeyStoreCommandTests extends KeyStoreCommandTestCase {
     }
 }
 // Test
+// Test2

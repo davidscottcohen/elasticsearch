@@ -230,3 +230,4 @@ public abstract class GeoShapeQueryBuilderTestCase extends AbstractQueryTestCase
     }
 }
 // Test
+// Test2

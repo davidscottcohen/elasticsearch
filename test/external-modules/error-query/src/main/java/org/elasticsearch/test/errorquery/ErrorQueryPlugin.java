@@ -27,3 +27,4 @@ public class ErrorQueryPlugin extends Plugin implements SearchPlugin {
     }
 }
 // Test
+// Test2

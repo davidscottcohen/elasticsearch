@@ -71,3 +71,4 @@ public class AnalysisICUPlugin extends Plugin implements AnalysisPlugin, MapperP
     }
 }
 // Test
+// Test2

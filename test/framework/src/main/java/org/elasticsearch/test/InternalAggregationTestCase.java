@@ -736,3 +736,4 @@ public abstract class InternalAggregationTestCase<T extends InternalAggregation>
     }
 }
 // Test
+// Test2

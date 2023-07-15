@@ -28,3 +28,4 @@ public class CustomSuggesterPlugin extends Plugin implements SearchPlugin {
     }
 }
 // Test
+// Test2

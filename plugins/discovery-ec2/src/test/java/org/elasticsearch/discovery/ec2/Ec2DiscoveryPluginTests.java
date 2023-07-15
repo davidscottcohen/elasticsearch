@@ -305,3 +305,4 @@ public class Ec2DiscoveryPluginTests extends ESTestCase {
     }
 }
 // Test
+// Test2

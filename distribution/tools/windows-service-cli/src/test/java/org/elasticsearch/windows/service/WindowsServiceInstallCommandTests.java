@@ -192,3 +192,4 @@ public class WindowsServiceInstallCommandTests extends WindowsServiceCliTestCase
     }
 }
 // Test
+// Test2

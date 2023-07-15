@@ -36,3 +36,4 @@ public class MapperSizeClientYamlTestSuiteIT extends ESClientYamlSuiteTestCase {
     }
 }
 // Test
+// Test2

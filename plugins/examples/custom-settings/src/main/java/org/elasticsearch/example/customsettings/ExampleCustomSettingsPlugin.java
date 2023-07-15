@@ -56,3 +56,4 @@ public class ExampleCustomSettingsPlugin extends Plugin {
     }
 }
 // Test
+// Test2

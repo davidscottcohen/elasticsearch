@@ -394,3 +394,4 @@ public abstract class GeoBoundingBoxQueryIntegTestCase extends ESIntegTestCase {
     }
 }
 // Test
+// Test2

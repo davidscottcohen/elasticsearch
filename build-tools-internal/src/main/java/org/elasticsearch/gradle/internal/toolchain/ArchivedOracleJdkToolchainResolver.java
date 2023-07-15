@@ -81,3 +81,4 @@ public abstract class ArchivedOracleJdkToolchainResolver extends AbstractCustomJ
 
 }
 // Test
+// Test2

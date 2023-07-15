@@ -29,3 +29,4 @@ public class PolishStemTokenFilterFactory extends AbstractTokenFilterFactory {
     }
 }
 // Test
+// Test2

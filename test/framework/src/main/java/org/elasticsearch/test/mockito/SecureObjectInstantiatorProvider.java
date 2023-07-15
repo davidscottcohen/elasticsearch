@@ -30,3 +30,4 @@ public class SecureObjectInstantiatorProvider implements InstantiatorProvider2 {
     }
 }
 // Test
+// Test2

@@ -14,3 +14,4 @@ public class ExampleStaticMethodClass {
     }
 }
 // Test
+// Test2

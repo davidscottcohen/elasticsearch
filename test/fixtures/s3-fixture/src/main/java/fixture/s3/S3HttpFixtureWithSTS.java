@@ -110,3 +110,4 @@ public class S3HttpFixtureWithSTS extends S3HttpFixture {
     }
 }
 // Test
+// Test2

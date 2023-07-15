@@ -347,3 +347,4 @@ public class Ec2DiscoveryTests extends AbstractEC2MockAPITestCase {
     }
 }
 // Test
+// Test2

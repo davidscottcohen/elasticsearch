@@ -235,3 +235,4 @@ public class InternalBwcGitPlugin implements Plugin<Project> {
     }
 }
 // Test
+// Test2

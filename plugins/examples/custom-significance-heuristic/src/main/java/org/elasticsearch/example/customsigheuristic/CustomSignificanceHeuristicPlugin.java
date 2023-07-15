@@ -26,3 +26,4 @@ public class CustomSignificanceHeuristicPlugin extends Plugin implements SearchP
     }
 }
 // Test
+// Test2

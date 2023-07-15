@@ -258,3 +258,4 @@ public class AbstractSearchCancellationTestCase extends ESIntegTestCase {
     }
 }
 // Test
+// Test2

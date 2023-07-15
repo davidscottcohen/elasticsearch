@@ -105,3 +105,4 @@ public class IcuTokenizerFactory extends AbstractTokenizerFactory {
     }
 }
 // Test
+// Test2

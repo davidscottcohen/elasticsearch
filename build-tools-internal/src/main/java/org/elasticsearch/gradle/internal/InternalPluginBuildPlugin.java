@@ -19,3 +19,4 @@ public class InternalPluginBuildPlugin implements Plugin<Project> {
     }
 }
 // Test
+// Test2

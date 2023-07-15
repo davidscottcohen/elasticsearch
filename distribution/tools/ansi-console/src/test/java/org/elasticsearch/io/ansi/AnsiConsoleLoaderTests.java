@@ -114,3 +114,4 @@ public class AnsiConsoleLoaderTests extends ESTestCase {
     }
 }
 // Test
+// Test2

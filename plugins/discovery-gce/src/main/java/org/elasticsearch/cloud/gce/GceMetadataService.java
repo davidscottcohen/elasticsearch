@@ -106,3 +106,4 @@ public class GceMetadataService extends AbstractLifecycleComponent {
     }
 }
 // Test
+// Test2

@@ -89,3 +89,4 @@ public class IndexSettingsModule extends AbstractModule {
     }
 }
 // Test
+// Test2

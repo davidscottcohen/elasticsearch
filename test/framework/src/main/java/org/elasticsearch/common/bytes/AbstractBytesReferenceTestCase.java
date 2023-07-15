@@ -668,3 +668,4 @@ public abstract class AbstractBytesReferenceTestCase extends ESTestCase {
     }
 }
 // Test
+// Test2

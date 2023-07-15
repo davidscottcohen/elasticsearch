@@ -45,3 +45,4 @@ public class KuromojiCompletionFilterFactory extends AbstractTokenFilterFactory 
 
 }
 // Test
+// Test2

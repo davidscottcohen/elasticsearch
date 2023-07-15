@@ -30,3 +30,4 @@ public class KuromojiReadingFormFilterFactory extends AbstractTokenFilterFactory
     }
 }
 // Test
+// Test2

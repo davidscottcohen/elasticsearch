@@ -58,3 +58,4 @@ public class ReleaseNotesIndexGeneratorTest {
     }
 }
 // Test
+// Test2

@@ -228,3 +228,4 @@ public abstract class WindowsServiceCliTestCase extends CommandTestCase {
     }
 }
 // Test
+// Test2

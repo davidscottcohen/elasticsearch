@@ -359,3 +359,4 @@ public class BackgroundIndexer implements AutoCloseable {
     }
 }
 // Test
+// Test2

@@ -539,3 +539,4 @@ public abstract class GeoBoundingBoxQueryBuilderTestCase extends AbstractQueryTe
     }
 }
 // Test
+// Test2

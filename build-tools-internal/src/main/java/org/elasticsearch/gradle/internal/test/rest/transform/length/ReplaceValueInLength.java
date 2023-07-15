@@ -42,3 +42,4 @@ public class ReplaceValueInLength extends ReplaceByKey {
     }
 }
 // Test
+// Test2
